@@ -23,13 +23,13 @@ This generator currently creates playlists for:
 
 ## Available Playlists & How to Use
 
-The generated M3U files can be found in the [`playlists/` directory](https://github.com/BuddyChewChew/app-to-iptv/tree/main/playlists) of this repository.
+The generated M3U files can be found in the [`playlists/` directory](https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists) of this repository.
 
 You can use these playlists in any IPTV player application that supports M3U playlists with remote URLs (e.g., TiviMate, IPTV Smarters, VLC, Kodi PVR IPTV Simple Client, OTT Navigator, etc.).
 
 **To get the URL for a specific playlist:**
 
-1.  Navigate to the [`playlists/` directory](https://github.com/BuddyChewChew/app-to-iptv/tree/main/playlists).
+1.  Navigate to the [`playlists/` directory]https://github.com/BuddyChewChew/app-to-iptv/tree/main/playlists).
 2.  Click on the desired `.m3u` file (e.g., `plutotv_us.m3u`).
 3.  On the file page, click the **"Raw"** button.
 4.  Copy the URL from your browser's address bar.
