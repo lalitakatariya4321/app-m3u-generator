@@ -48,11 +48,11 @@ https://raw.githubusercontent.com/BuddyChewChew/app-to-iptv/main/playlists/FILEN
 
 Paste this complete raw URL into your IPTV player's M3U playlist source field. The player should automatically fetch the playlist and the EPG data specified in the `url-tvg` tag.
 
-## Update Schedule
+## ▶️ Update Schedule
 
 Playlists are automatically checked for updates daily via the GitHub Action workflow (around 03:00 UTC, unless the schedule in the `.yml` file is changed). Your IPTV player should periodically refresh the playlist URL to get the latest channel updates automatically if they have been committed.
 
-## Customization
+## ▶️ Customization
 
 If you want to change the specific regions generated, the update schedule, or the script logic:
 
@@ -62,7 +62,7 @@ If you want to change the specific regions generated, the update schedule, or th
 4.  Make any other desired changes to the Python script.
 5.  Ensure GitHub Actions are enabled on your fork.
 
-## Disclaimer
+## ▶️ Disclaimer
 
 *   This repository merely aggregates publicly available channel information and stream URLs from the upstream sources mentioned.
 *   The availability, legality, and stability of the streams themselves depend entirely on the original service providers and the upstream data sources. Streams may stop working, change format, or be removed without notice.
