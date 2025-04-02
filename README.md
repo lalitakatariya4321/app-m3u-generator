@@ -29,7 +29,7 @@ This generator currently creates playlists for:
 
 ## ▶️ Available Playlists & How to Use
 
-The generated M3U files can be found in the [`playlists/]` directory(https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists) of this repository.
+The generated M3U files can be found in the [`playlists/`](https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists) directory of this repository.
 
 You can use these playlists in any IPTV player application that supports M3U playlists with remote URLs (e.g., TiviMate, IPTV Smarters, VLC, Kodi PVR IPTV Simple Client, OTT Navigator, etc.).
 
