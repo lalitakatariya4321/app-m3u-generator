@@ -4,7 +4,7 @@ This repository automatically generates M3U playlist files for various free ad-s
 
 ## How It Works
 
-1.  **Data Fetching:** A Python script (`generate_playlists.py`) fetches the latest channel data from reliable upstream sources (primarily repositories maintained by [matthuisman/i.mjh.nz](https://github.com/matthuisman/i.mjh.nz) and [BuddyChewChew/tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) - *Note: Tubi source seems related to this repo owner*).
+1.  **Data Fetching:** A Python script (`generate_playlists.py`) fetches the latest channel data from reliable upstream sources (primarily repositories maintained by [matthuisman/i.mjh.nz](https://github.com/matthuisman/i.mjh.nz) and [BuddyChewChew/tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper)
 2.  **M3U Generation:** The script parses the data, formats it into the standard M3U playlist format, and includes the appropriate `url-tvg` EPG link in the header for compatible players.
 3.  **GitHub Action:** A scheduled GitHub Action (`.github/workflows/generate_playlists.yml`) runs the Python script daily (around 03:00 UTC by default).
 4.  **Commit Updates:** The workflow checks if the newly generated playlists differ from the ones currently in the repository. If changes are detected, the Action commits and pushes the updated files to the `playlists/` directory. If no changes are detected, no commit is made, keeping the history clean.
