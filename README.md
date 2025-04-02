@@ -22,15 +22,14 @@ This generator currently creates playlists for:
 
 **Example URLs:**
 
-*   **PlutoTV US:** `https://raw.githubusercontent.com/BuddyChewChew/app-to-iptv/main/playlists/plex_us.m3u`
+*   **plex US:** `https://raw.githubusercontent.com/BuddyChewChew/app-to-iptv/main/playlists/plex_us.m3u`
 *   **Plex All Regions:** `https://raw.githubusercontent.com/BuddyChewChew/app-to-iptv/main/playlists/plex_all.m3u`
-*   **(Add other examples as needed)**
 
 *(Note: The `_us` versions contain channels specific to the US region, while `_all` versions attempt to combine channels from multiple available regions, grouped by region/country.)*
 
 ## Available Playlists & How to Use
 
-The generated M3U files can be found in the [`playlists/` directory](https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists) of this repository.
+The generated M3U files can be found in the [`playlists/]` directory(https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists) of this repository.
 
 You can use these playlists in any IPTV player application that supports M3U playlists with remote URLs (e.g., TiviMate, IPTV Smarters, VLC, Kodi PVR IPTV Simple Client, OTT Navigator, etc.).
 
