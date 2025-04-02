@@ -19,6 +19,13 @@ This generator currently creates playlists for:
 *   **Stirr TV** (`stirr_all.m3u`)
 *   **Tubi TV** (`tubi_all.m3u`)
 
+
+**Example URLs:**
+
+*   **PlutoTV US:** `https://raw.githubusercontent.com/BuddyChewChew/app-to-iptv/main/playlists/plutotv_us.m3u`
+*   **Plex All Regions:** `https://raw.githubusercontent.com/BuddyChewChew/app-to-iptv/main/playlists/plex_all.m3u`
+*   **(Add other examples as needed)**
+
 *(Note: The `_us` versions contain channels specific to the US region, while `_all` versions attempt to combine channels from multiple available regions, grouped by region/country.)*
 
 ## Available Playlists & How to Use
@@ -41,12 +48,6 @@ https://raw.githubusercontent.com/BuddyChewChew/app-to-iptv/main/playlists/FILEN
 *Replace `FILENAME.m3u` with the specific playlist file you want (e.g., `plex_all.m3u`).*
 
 Paste this complete raw URL into your IPTV player's M3U playlist source field. The player should automatically fetch the playlist and the EPG data specified in the `url-tvg` tag.
-
-**Example URLs:**
-
-*   **PlutoTV US:** `https://raw.githubusercontent.com/BuddyChewChew/app-to-iptv/main/playlists/plutotv_us.m3u`
-*   **Plex All Regions:** `https://raw.githubusercontent.com/BuddyChewChew/app-to-iptv/main/playlists/plex_all.m3u`
-*   **(Add other examples as needed)**
 
 ## Update Schedule
 
