@@ -27,7 +27,7 @@ This generator currently creates playlists for:
 
 *(Note: The `_us` versions contain channels specific to the US region, while `_all` versions attempt to combine channels from multiple available regions, grouped by region/country.)*
 
-## ▶️ Available Playlists & How to Use
+## ▶️ How to Use
 
 The generated M3U files can be found in the [`playlists/`](https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists) directory of this repository.
 
