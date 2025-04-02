@@ -2,14 +2,14 @@
 
 This repository automatically generates M3U playlist files for various free ad-supported streaming television (FAST) services using a Python script and GitHub Actions. The playlists include embedded EPG (Electronic Program Guide) information via the `url-tvg` tag in the M3U header.
 
-## How It Works
+## ▶️ How It Works
 
 1.  **Data Fetching:** A Python script (`generate_playlists.py`) fetches the latest channel data from reliable upstream sources (primarily repositories maintained by [matthuisman/i.mjh.nz](https://github.com/matthuisman/i.mjh.nz) and [BuddyChewChew/tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper)
 2.  **M3U Generation:** The script parses the data, formats it into the standard M3U playlist format, and includes the appropriate `url-tvg` EPG link in the header for compatible players.
 3.  **GitHub Action:** A scheduled GitHub Action (`.github/workflows/generate_playlists.yml`) runs the Python script daily (around 03:00 UTC by default).
 4.  **Commit Updates:** The workflow checks if the newly generated playlists differ from the ones currently in the repository. If changes are detected, the Action commits and pushes the updated files to the `playlists/` directory. If no changes are detected, no commit is made, keeping the history clean.
 
-## Services Included
+## ▶️ Services Included
 
 This generator currently creates playlists for:
 
@@ -27,7 +27,7 @@ This generator currently creates playlists for:
 
 *(Note: The `_us` versions contain channels specific to the US region, while `_all` versions attempt to combine channels from multiple available regions, grouped by region/country.)*
 
-## Available Playlists & How to Use
+## ▶️ Available Playlists & How to Use
 
 The generated M3U files can be found in the [`playlists/]` directory(https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists) of this repository.
 
