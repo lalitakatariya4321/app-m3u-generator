@@ -35,7 +35,7 @@ You can use these playlists in any IPTV player application that supports M3U pla
 
 **To get the URL for a specific playlist:**
 
-1.  Navigate to the [`playlists/` directory]https://github.com/BuddyChewChew/app-to-iptv/tree/main/playlists).
+1.  Navigate to the [`playlists/`](https://github.com/BuddyChewChew/app-to-iptv/tree/main/playlists) directory.
 2.  Click on the desired `.m3u` file (e.g., `plutotv_us.m3u`).
 3.  On the file page, click the **"Raw"** button.
 4.  Copy the URL from your browser's address bar.
