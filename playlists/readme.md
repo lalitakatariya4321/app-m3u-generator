@@ -1,4 +1,4 @@
-EPGS are hit and miss right now. The source for the EPGs is having server problems. Hopefully to be fixed soon.
+📌 EPGS are hit and miss right now. The source for the EPGs is having server problems. Hopefully to be fixed soon.
 
 1.  Click on the desired `.m3u` file (e.g., `plutotv_us.m3u`).
 2.  On the file page, click the **"Raw"** button.
