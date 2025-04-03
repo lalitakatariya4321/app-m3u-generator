@@ -5,7 +5,7 @@
 3.  Copy the URL from your browser's address bar.
 
 The URL will look like:
-https://raw.githubusercontent.com/BuddyChewChew/app-to-iptv/main/playlists/FILENAME.m3u
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/FILENAME.m3u
 
 
 *Replace `FILENAME.m3u` with the specific playlist file you want (e.g., `plex_all.m3u`, `plex_us.m3u`).*
