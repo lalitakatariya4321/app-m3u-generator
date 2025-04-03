@@ -16,7 +16,7 @@ This generator currently creates playlists for:
 *   **Pluto TV** (`plutotv_us.m3u`, `plutotv_all.m3u`)
 *   **Plex Live TV** (`plex_us.m3u`, `plex_all.m3u`)
 *   **Samsung TV Plus** (`samsungtvplus_us.m3u`, `samsungtvplus_all.m3u`)
-*   **Stirr TV** (`stirr_all.m3u`) 👉 Might be removing. No working playlist.
+*   **Stirr TV** (`stirr_all.m3u`) 👉 Might be removing. No working EPG.
 *   **Tubi TV** (`tubi_all.m3u`)
 
 
