@@ -22,8 +22,8 @@ This generator currently creates playlists for:
 
 **Example URLs:**
 
-*   **Plex US:** `https://raw.githubusercontent.com/BuddyChewChew/app-to-iptv/main/playlists/plex_us.m3u`
-*   **Plex All Regions:** `https://raw.githubusercontent.com/BuddyChewChew/app-to-iptv/main/playlists/plex_all.m3u`
+*   **Plex US:** `https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_us.m3u`
+*   **Plex All Regions:** `https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_all.m3u`
 
 *(Note: The `_us` versions contain channels specific to the US region, while `_all` versions attempt to combine channels from multiple available regions, grouped by region/country.)*
 
