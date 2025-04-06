@@ -7,8 +7,6 @@ https://jmp2.uk/sam-USBD70000412.m3u8
 https://jmp2.uk/sam-USBD42000073E.m3u8
 #EXTINF:-1 channel-id="USBC39000171G" tvg-id="USBC39000171G" tvg-chno="1112" tvg-name="ABC News Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20241105T024229SQUARE.png" group-title="News & Opinion",ABC News Live
 https://jmp2.uk/sam-USBC39000171G.m3u8
-#EXTINF:-1 channel-id="USBC4400010RH" tvg-id="USBC4400010RH" tvg-chno="1123" tvg-name="ABC7 Bay Area" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400010RH_20241112T001518SQUARE.png" group-title="News & Opinion",ABC7 Bay Area
-https://jmp2.uk/sam-USBC4400010RH.m3u8
 #EXTINF:-1 channel-id="USBD25000161U" tvg-id="USBD25000161U" tvg-chno="2396" tvg-name="ACC Digital Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000161U_20250304T041450SQUARE.png" group-title="Sports & Outdoors",ACC Digital Network
 https://jmp2.uk/sam-USBD25000161U.m3u8
 #EXTINF:-1 channel-id="US4100023FK" tvg-id="US4100023FK" tvg-chno="2674" tvg-name="ALF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100023FK_20241228T011451SQUARE.png" group-title="Comedy",ALF
@@ -141,8 +139,6 @@ https://jmp2.uk/sam-US700007CV.m3u8
 https://jmp2.uk/sam-USBC4400003OU.m3u8
 #EXTINF:-1 channel-id="USBA370000104" tvg-id="USBA370000104" tvg-chno="1110" tvg-name="CBS News 24/7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20241112T000842SQUARE.png" group-title="News & Opinion",CBS News 24/7
 https://jmp2.uk/sam-USBA370000104.m3u8
-#EXTINF:-1 channel-id="USBD2700010WB" tvg-id="USBD2700010WB" tvg-chno="1124" tvg-name="CBS News Bay Area" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700010WB_20241112T001548SQUARE.png" group-title="News & Opinion",CBS News Bay Area
-https://jmp2.uk/sam-USBD2700010WB.m3u8
 #EXTINF:-1 channel-id="USBB4800005VO" tvg-id="USBB4800005VO" tvg-chno="2330" tvg-name="CBS Sports HQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20250401T004857SQUARE.png" group-title="Sports & Outdoors",CBS Sports HQ
 https://jmp2.uk/sam-USBB4800005VO.m3u8
 #EXTINF:-1 channel-id="USBD3500031F3" tvg-id="USBD3500031F3" tvg-chno="1960" tvg-name="Cheaters" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500031F3_20241112T001009SQUARE.png" group-title="Reality TV",Cheaters
@@ -283,8 +279,8 @@ https://jmp2.uk/sam-USBB3200017MY.m3u8
 https://jmp2.uk/sam-USBD2700014QW.m3u8
 #EXTINF:-1 channel-id="US600011Q2" tvg-id="US600011Q2" tvg-chno="2510" tvg-name="Formula 1 Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US600011Q2_20241112T001019SQUARE.png" group-title="Motor Sports",Formula 1 Channel
 https://jmp2.uk/sam-US600011Q2.m3u8
-#EXTINF:-1 channel-id="USBD2700019N0" tvg-id="USBD2700019N0" tvg-chno="1125" tvg-name="FOX 2 San Francisco" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700019N0_20241112T001641SQUARE.png" group-title="News & Opinion",FOX 2 San Francisco
-https://jmp2.uk/sam-USBD2700019N0.m3u8
+#EXTINF:-1 channel-id="USBD450000577" tvg-id="USBD450000577" tvg-chno="1123" tvg-name="FOX 13 Seattle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD450000577_20241112T001448SQUARE.png" group-title="News & Opinion",FOX 13 Seattle
+https://jmp2.uk/sam-USBD450000577.m3u8
 #EXTINF:-1 channel-id="USBA300032J7" tvg-id="USBA300032J7" tvg-chno="2950" tvg-name="FOX SOUL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300032J7_20240520T214534SQUARE.png" group-title="Lifestyle & Pop Culture",FOX SOUL
 https://jmp2.uk/sam-USBA300032J7.m3u8
 #EXTINF:-1 channel-id="US2700001QY" tvg-id="US2700001QY" tvg-chno="2334" tvg-name="FOX Sports" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700001QY_20241105T024305SQUARE.png" group-title="Sports & Outdoors",FOX Sports
@@ -387,8 +383,14 @@ https://jmp2.uk/sam-USBB2900001P9.m3u8
 https://jmp2.uk/sam-US2900015RO.m3u8
 #EXTINF:-1 channel-id="USAK3508716A" tvg-id="USAK3508716A" tvg-chno="3708" tvg-name="Kidoodle.TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508716A_20250325T020225SQUARE.png" group-title="Kids",Kidoodle.TV
 https://jmp2.uk/sam-USAK3508716A.m3u8
+#EXTINF:-1 channel-id="USBD4200004MV" tvg-id="USBD4200004MV" tvg-chno="1125" tvg-name="KING 5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200004MV_20241112T001631SQUARE.png" group-title="News & Opinion",KING 5
+https://jmp2.uk/sam-USBD4200004MV.m3u8
+#EXTINF:-1 channel-id="USBC1000021BG" tvg-id="USBC1000021BG" tvg-chno="1122" tvg-name="KIRO Seattle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1000021BG_20241112T001305SQUARE.png" group-title="News & Opinion",KIRO Seattle
+https://jmp2.uk/sam-USBC1000021BG.m3u8
 #EXTINF:-1 channel-id="USBA3000042O6" tvg-id="USBA3000042O6" tvg-chno="1905" tvg-name="Kitchen Nightmares" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000042O6_20241002T233722SQUARE.png" group-title="Reality TV",Kitchen Nightmares
 https://jmp2.uk/sam-USBA3000042O6.m3u8
+#EXTINF:-1 channel-id="USBD4200018SW" tvg-id="USBD4200018SW" tvg-chno="1124" tvg-name="KOMO News Seattle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200018SW_20241112T001625SQUARE.png" group-title="News & Opinion",KOMO News Seattle
+https://jmp2.uk/sam-USBD4200018SW.m3u8
 #EXTINF:-1 channel-id="US3700002P0" tvg-id="US3700002P0" tvg-chno="2643" tvg-name="Laff More" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3700002P0_20241112T000848SQUARE.png" group-title="Comedy",Laff More
 https://jmp2.uk/sam-US3700002P0.m3u8
 #EXTINF:-1 channel-id="US14000136J" tvg-id="US14000136J" tvg-chno="4582" tvg-name="Lakeside Bonfire Vibes" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US14000136J_20241210T013910SQUARE.png" group-title="Ambiance",Lakeside Bonfire Vibes
@@ -489,8 +491,6 @@ https://jmp2.uk/sam-US2900008FP.m3u8
 https://jmp2.uk/sam-USBC3900018K6.m3u8
 #EXTINF:-1 channel-id="US1800015K5" tvg-id="US1800015K5" tvg-chno="2635" tvg-name="National Lampoon" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800015K5_20240709T002207SQUARE.png" group-title="Comedy",National Lampoon
 https://jmp2.uk/sam-US1800015K5.m3u8
-#EXTINF:-1 channel-id="USBC3200005A0" tvg-id="USBC3200005A0" tvg-chno="1122" tvg-name="NBC Bay Area News" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20241112T001208SQUARE.png" group-title="News & Opinion",NBC Bay Area News
-https://jmp2.uk/sam-USBC3200005A0.m3u8
 #EXTINF:-1 channel-id="USBB40000028E" tvg-id="USBB40000028E" tvg-chno="2032" tvg-name="NBC LX Home" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB40000028E_20250325T014929SQUARE.png" group-title="Home & Food",NBC LX Home
 https://jmp2.uk/sam-USBB40000028E.m3u8
 #EXTINF:-1 channel-id="USBB2200014DK" tvg-id="USBB2200014DK" tvg-chno="1114" tvg-name="NBC News NOW" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20241031T150132SQUARE.png" group-title="News & Opinion",NBC News NOW
@@ -725,8 +725,6 @@ https://jmp2.uk/sam-USBC2100013WI.m3u8
 https://jmp2.uk/sam-US1800002UQ.m3u8
 #EXTINF:-1 channel-id="USBB3200016HO" tvg-id="USBB3200016HO" tvg-chno="3850" tvg-name="Telemundo Al Día" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200016HO_20250211T021708SQUARE.png" group-title="Latino",Telemundo Al Día
 https://jmp2.uk/sam-USBB3200016HO.m3u8
-#EXTINF:-1 channel-id="USBC4400020H7" tvg-id="USBC4400020H7" tvg-chno="3840" tvg-name="Telemundo California" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400020H7_20241112T001751SQUARE.png" group-title="Latino",Telemundo California
-https://jmp2.uk/sam-USBC4400020H7.m3u8
 #EXTINF:-1 channel-id="US1800004S5" tvg-id="US1800004S5" tvg-chno="3860" tvg-name="Telemundo Romance" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800004S5_20240722T230843SQUARE.png" group-title="Latino",Telemundo Romance
 https://jmp2.uk/sam-US1800004S5.m3u8
 #EXTINF:-1 channel-id="USBD3500015R5" tvg-id="USBD3500015R5" tvg-chno="3642" tvg-name="Teletubbies" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500015R5_20250121T101050SQUARE.png" group-title="Kids",Teletubbies
@@ -865,8 +863,8 @@ https://jmp2.uk/sam-US3800007CR.m3u8
 https://jmp2.uk/sam-USBB4400018LR.m3u8
 #EXTINF:-1 channel-id="US700010XK" tvg-id="US700010XK" tvg-chno="1833" tvg-name="Witness to Justice" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700010XK_20250325T015334SQUARE.png" group-title="Crime",Witness to Justice
 https://jmp2.uk/sam-US700010XK.m3u8
-#EXTINF:-1 channel-id="USBB3600008BU" tvg-id="USBB3600008BU" tvg-chno="1135" tvg-name="WN San Francisco" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3600008BU_20241112T001925SQUARE.png" group-title="News & Opinion",WN San Francisco
-https://jmp2.uk/sam-USBB3600008BU.m3u8
+#EXTINF:-1 channel-id="USBC1300017VM" tvg-id="USBC1300017VM" tvg-chno="1135" tvg-name="WN Seattle" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300017VM_20241112T001943SQUARE.png" group-title="News & Opinion",WN Seattle
+https://jmp2.uk/sam-USBC1300017VM.m3u8
 #EXTINF:-1 channel-id="US4100001KP" tvg-id="US4100001KP" tvg-chno="2430" tvg-name="Women's Sports Network" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4100001KP_20241210T013946SQUARE.png" group-title="Sports & Outdoors",Women's Sports Network
 https://jmp2.uk/sam-US4100001KP.m3u8
 #EXTINF:-1 channel-id="USBD1700009P5" tvg-id="USBD1700009P5" tvg-chno="2448" tvg-name="World Poker Tour" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1700009P5_20240520T220204SQUARE.png" group-title="Sports & Outdoors",World Poker Tour
