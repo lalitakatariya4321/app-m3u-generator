@@ -18,7 +18,7 @@ This generator currently creates playlists for:
 *   **Samsung TV Plus** (`samsungtvplus_us.m3u`, `samsungtvplus_all.m3u`)
 *   **Stirr TV** (`stirr_all.m3u`) 👉 Might be removing. No working EPG.
 *   **Tubi TV** (`tubi_all.m3u`)
-
+*   **Roku TV** (`Roku_all.m3u`) NEW 6/14/25
 
 **Example URLs:**
 
