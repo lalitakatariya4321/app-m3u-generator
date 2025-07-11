@@ -39,7 +39,10 @@ You can use these playlists in any IPTV player application that supports M3U pla
 3.  On the file page, click the **"Raw"** button.
 4.  Copy the URL from your browser's address bar.
 
-The URL will look like this pattern:
+   
+## OR
+
+Copy this url and add the playlist you want:
 https://raw.githubusercontent.com/BuddyChewChew/app-to-iptv/main/playlists/FILENAME.m3u
 
 
