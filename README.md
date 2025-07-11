@@ -1,3 +1,5 @@
+Please support these services by visiting the websites for mor content. https://pluto.tv/us/hub/home, https://www.plex.tv, https://www.samsungtvplus.com, https://stirr.com, https://tubitv.com
+
 # ⭐ FAST Service M3U Playlist Generator
 
 This repository automatically generates M3U playlist files for various free ad-supported streaming television (FAST) services using a Python script and GitHub Actions. The playlists include embedded EPG (Electronic Program Guide) information via the `url-tvg` tag in the M3U header.
