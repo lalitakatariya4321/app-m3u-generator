@@ -1,4 +1,4 @@
-Please support these services by visiting the websites for mor content. https://pluto.tv/us/hub/home, https://www.plex.tv, https://www.samsungtvplus.com, https://stirr.com, https://tubitv.com
+Please support these services by visiting the websites for mor content. [pluto.tv](https://pluto.tv/us/hub/home), [plex](https://www.plex.tv), [samsungtvplus](https://www.samsungtvplus.com), [stirr](https://stirr.com), [tubitv](https://tubitv.com)
 
 # ⭐ FAST Service M3U Playlist Generator
 
