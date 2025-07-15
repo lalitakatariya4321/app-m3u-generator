@@ -1,4 +1,4 @@
-Please support these services by visiting the websites for mor content. [pluto.tv](https://pluto.tv/us/hub/home), [plex](https://www.plex.tv), [samsungtvplus](https://www.samsungtvplus.com), [stirr](https://stirr.com), [tubitv](https://tubitv.com)
+Please support these services by visiting the websites for mor content. [pluto.tv](https://pluto.tv/us/hub/home), [plex](https://www.plex.tv), [samsungtvplus](https://www.samsungtvplus.com), [stirr](https://stirr.com), [tubitv](https://tubitv.com), [roku](https://therokuchannel.roku.com/)
 
 # ⭐ FAST Service M3U Playlist Generator
 
@@ -19,7 +19,8 @@ This generator currently creates playlists for:
 *   **Plex Live TV** (`plex_us.m3u`, `plex_all.m3u`)
 *   **Samsung TV Plus** (`samsungtvplus_us.m3u`, `samsungtvplus_all.m3u`)
 *   **Stirr TV** (`stirr_all.m3u`) 👉 Might be removing. No working EPG.
-*   **Tubi TV** (`tubi_all.m3u`) 
+*   **Tubi TV** (`tubi_all.m3u`)
+*   **Roku TV** (`roku_all.m3u`) 
 
 **Example URLs:**
 
