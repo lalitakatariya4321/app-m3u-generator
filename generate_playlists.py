@@ -413,20 +413,84 @@ def generate_tubi_m3u():
 
     write_m3u_file("tubi_all.m3u", output_content)
 
+def generate_roku_m3u(sort='name'):
+    """Generates M3U playlist for Roku."""
+    ROKU_URL = 'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Roku/.channels.json.gz'
+    STREAM_URL_TEMPLATE = 'https://jmp2.uk/rok-{id}.m3u8'
+    EPG_URL = 'https://github.com/matthuisman/i.mjh.nz/raw/master/Roku/all.xml.gz'
+
+    logging.info("--- Generating Roku playlist ---")
+    data = fetch_url(ROKU_URL, is_json=True, is_gzipped=True)
+    if not data or 'channels' not in data:
+        logging.error("Failed to fetch or parse Roku data.")
+        return
+
+    output_lines = [f'#EXTM3U url-tvg="{EPG_URL}"\n']
+    channels_to_process = data.get('channels', {})
+
+    # Sort channels
+    try:
+        if sort == 'chno':
+            sorted_channel_ids = sorted(channels_to_process.keys(), 
+                                     key=lambda k: int(channels_to_process[k].get('chno', 99999)))
+        else:  # Default to name sort
+            sorted_channel_ids = sorted(channels_to_process.keys(), 
+                                     key=lambda k: channels_to_process[k].get('name', '').lower())
+    except Exception as e:
+        logging.warning(f"Sorting failed for Roku, using default order. Error: {e}")
+        sorted_channel_ids = list(channels_to_process.keys())
+
+    # Build M3U entries
+    for channel_id in sorted_channel_ids:
+        channel = channels_to_process[channel_id]
+        chno = channel.get('chno')
+        name = channel.get('name', 'Unknown Channel')
+        logo = channel.get('logo', '')
+        groups_list = channel.get('groups', [])
+        group_title = groups_list[0] if groups_list else 'Uncategorized'
+        tvg_id = channel_id  # Roku IDs seem unique enough
+
+        extinf = format_extinf(channel_id, tvg_id, chno, name, logo, group_title, name)
+        stream_url = STREAM_URL_TEMPLATE.replace('{id}', channel_id)
+        output_lines.append(extinf)
+        output_lines.append(stream_url + '\n')
+
+    write_m3u_file("roku_all.m3u", "".join(output_lines))
 
 # --- Main Execution ---
 if __name__ == "__main__":
     logging.info("Starting playlist generation process...")
-
-    # Define specific regions you want for multi-region services
-    pluto_regions_to_generate = ['us', 'all'] # Example: US and a combined 'all' list
-    plex_regions_to_generate = ['us', 'all']
-    samsung_regions_to_generate = ['us', 'all']
-
-    generate_pluto_m3u(regions=pluto_regions_to_generate, sort='name')
-    generate_plex_m3u(regions=plex_regions_to_generate, sort='name')
-    generate_samsungtvplus_m3u(regions=samsung_regions_to_generate, sort='name')
-    generate_stirr_m3u(sort='name')
-    generate_tubi_m3u()
-
-    logging.info("Playlist generation process finished.")
+    
+    # List of services to generate playlists for
+    services = [
+        'pluto',
+        'plex',
+        'samsungtvplus',
+        'stirr',
+        'tubi',
+        'roku'  # Added Roku service
+    ]
+    
+    # Default regions for services that support them
+    regions = ['us', 'ca', 'gb', 'au', 'all']
+    
+    # Generate playlists for each service
+    for service in services:
+        try:
+            if service == 'pluto':
+                generate_pluto_m3u(regions=regions)
+            elif service == 'plex':
+                generate_plex_m3u(regions=regions)
+            elif service == 'samsungtvplus':
+                generate_samsungtvplus_m3u(regions=regions)
+            elif service == 'stirr':
+                generate_stirr_m3u()
+            elif service == 'tubi':
+                generate_tubi_m3u()
+            elif service == 'roku':
+                generate_roku_m3u()  # Added Roku service call
+        except Exception as e:
+            logging.error(f"Error generating {service} playlist: {e}")
+            continue
+            
+    logging.info("Playlist generation process completed.")
