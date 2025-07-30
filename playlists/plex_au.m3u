@@ -245,8 +245,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-636abc6d4cbc0319a0bd49c0.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430" tvg-chno="" tvg-name="Maverick Black Cinema" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" group-title="Black Entertainment",Maverick Black Cinema
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5f90ebc726350a002d40b136" tvg-id="5e20b730f2f8d5003d739db7-5f90ebc726350a002d40b136" tvg-chno="" tvg-name="MAVTV Motorsports Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6843c3b-df90-45b6-a7d5-c166c8f57ca5/mavtv-motorsports-logo_color_WHITE.png" group-title="Sports",MAVTV Motorsports Network
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f90ebc726350a002d40b136.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-684c2379e32026b0c1f53793" tvg-id="5e20b730f2f8d5003d739db7-684c2379e32026b0c1f53793" tvg-chno="" tvg-name="Million Dollar Dream Home" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d80bb192-dcc3-4ab1-8af0-97ad7efcb098/MDDH_WHITE_-_Principal_MediaRDX.png" group-title="Uncategorized",Million Dollar Dream Home
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-684c2379e32026b0c1f53793.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495" tvg-id="5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495" tvg-chno="" tvg-name="Monster Jam" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d50335c9-42d6-4836-9179-034d8b6e9b75/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" group-title="Sports",Monster Jam
@@ -333,6 +331,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66a2e57a0b91165254efdb4a.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75" tvg-chno="" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Music",Qwest TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5f90ebc726350a002d40b136" tvg-id="5e20b730f2f8d5003d739db7-5f90ebc726350a002d40b136" tvg-chno="" tvg-name="RACER International" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dd4e5871-4347-49e3-9ea1-a8770ea9c518/RACER_Intl_logo_1500x1000.png" group-title="Uncategorized",RACER International
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f90ebc726350a002d40b136.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" tvg-id="5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" tvg-chno="" tvg-name="Racing America" tvg-logo="https://provider-static.plex.tv/epg/cms/production/603d35f3-bea2-4f06-b179-1a98c0adf534/Untitled_15.png" group-title="Sports",Racing America
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66bfb17c144c201b8b61c10d" tvg-id="5e20b730f2f8d5003d739db7-66bfb17c144c201b8b61c10d" tvg-chno="" tvg-name="RCM" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2c732af-553a-4ec1-b8ab-14277415e5b0/RCM_logo_white_-_Angela_Chan.png" group-title="Movies",RCM
