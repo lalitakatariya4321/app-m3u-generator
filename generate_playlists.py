@@ -95,7 +95,7 @@ def format_extinf(channel_id, tvg_id, tvg_chno, tvg_name, tvg_logo, group_title,
 
 # --- Service Functions ---
 
-def generate_pluto_m3u(regions=['us', 'ca', 'gb', 'au', 'mx', 'es', 'all'], sort='name'):
+def generate_pluto_m3u(regions=['us', 'ca', 'gb', 'au', 'mx', 'es', 'latam', 'all'], sort='name'):
     """Generates M3U playlists for PlutoTV."""
     PLUTO_URL = 'https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/.channels.json.gz'
     STREAM_URL_TEMPLATE = 'https://jmp2.uk/plu-{id}.m3u8'
@@ -472,7 +472,7 @@ if __name__ == "__main__":
     ]
     
     # Default regions for services that support them
-    regions = ['us', 'ca', 'gb', 'au', 'all']
+    regions = ['us', 'ca', 'mx', 'au', 'gb', 'es', 'all']
     
     # Generate playlists for each service
     for service in services:
