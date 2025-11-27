@@ -45,7 +45,7 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64d2c6acb18b113e0c61012a.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-689e1f0dd84bfb3d54b6756f" tvg-id="5e20b730f2f8d5003d739db7-689e1f0dd84bfb3d54b6756f" tvg-chno="" tvg-name="Bizaar" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f40521f6-1074-4664-b673-96a2eab164a0/Bizaar_Logo_For_Dark_Background_-_1500_x_1000_-_Michael_Bromberg.png" group-title="Uncategorized",Bizaar
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-689e1f0dd84bfb3d54b6756f.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-61d73c3ca7b7c7f703418518" tvg-id="5e20b730f2f8d5003d739db7-61d73c3ca7b7c7f703418518" tvg-chno="" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec4ad867-3226-4217-bc54-c1f0219ac8da/BBOriginals_2023_Plex_Stacked_WHTrdx.png" group-title="News",Bloomberg Originals
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-61d73c3ca7b7c7f703418518" tvg-id="5e20b730f2f8d5003d739db7-61d73c3ca7b7c7f703418518" tvg-chno="" tvg-name="Bloomberg Originals" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png" group-title="News",Bloomberg Originals
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61d73c3ca7b7c7f703418518.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" tvg-id="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" tvg-chno="" tvg-name="Bloomberg TV" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/66a30548bffdf5f5e158e3baf755afad.png" group-title="News",Bloomberg TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516.m3u8
@@ -371,8 +371,6 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68e032fd8bbd79d66c631ab0.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9" tvg-chno="" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="Lifestyle",Revry
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9.m3u8
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68dcb62667386a41d59918db" tvg-id="5e20b730f2f8d5003d739db7-68dcb62667386a41d59918db" tvg-chno="" tvg-name="River Monsters" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0de059fc-0966-4f67-8581-b63c80c2924d/RiverMonsters_Logo_White_1500X1000.png" group-title="Uncategorized",River Monsters
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-68dcb62667386a41d59918db.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d" tvg-id="5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d" tvg-chno="" tvg-name="Robot Wars by Mech+" tvg-logo="https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png" group-title="History & Science",Robot Wars by Mech+
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a664" tvg-id="5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a664" tvg-chno="" tvg-name="Ryan and Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5a022d7-5e4e-45fd-8f2f-8b900b233cc3/RAF_LOGO_FINALArtboard_1_1500x1000.png" group-title="Kids & Family",Ryan and Friends
