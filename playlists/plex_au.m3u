@@ -181,6 +181,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-666e16f9d91d13cb4c8cbb69.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-68645d7719cc2e163e38d163.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-60a9d105d162b9002d05a60c" tvg-id="697140a85d851f5e69414688-60a9d105d162b9002d05a60c" tvg-chno="" tvg-name="GoUSA TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png" group-title="Nature & Travel",GoUSA TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-60a9d105d162b9002d05a60c.m3u8
+#EXTINF:-1 channel-id="697140a85d851f5e69414688-64704596e536e0faaf10be9b" tvg-id="697140a85d851f5e69414688-64704596e536e0faaf10be9b" tvg-chno="" tvg-name="Great British Menu" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3c0c4e91-aeeb-473d-99b2-fbcc208bbcb9/GBM_Logo_Ashleigh_Dark_and_Light.png" group-title="Food & Home",Great British Menu
+https://jmp2.uk/plex-697140a85d851f5e69414688-64704596e536e0faaf10be9b.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-63489a771159f6a5ce819b7b" tvg-id="697140a85d851f5e69414688-63489a771159f6a5ce819b7b" tvg-chno="" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Classic TV",Grjngo - Western Movies
 https://jmp2.uk/plex-697140a85d851f5e69414688-63489a771159f6a5ce819b7b.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-5f8746eabd529300418246d9" tvg-id="697140a85d851f5e69414688-5f8746eabd529300418246d9" tvg-chno="" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Food & Home",GUSTOTV
@@ -205,6 +207,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-5f74cf83ffbe690040689f50.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-61aaa014784a2161d3caf7fd.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-682dfbf4dfc9c452b8f98428" tvg-id="697140a85d851f5e69414688-682dfbf4dfc9c452b8f98428" tvg-chno="" tvg-name="Homeful" tvg-logo="https://provider-static.plex.tv/epg/cms/production/df0c8122-ce9c-4ef8-b278-546a7ed303ef/Plex_Homeful_Logo-white_1500x1000_-_Nerissa_Jones.png" group-title="Food & Home",Homeful
 https://jmp2.uk/plex-697140a85d851f5e69414688-682dfbf4dfc9c452b8f98428.m3u8
+#EXTINF:-1 channel-id="697140a85d851f5e69414688-66e8d5d20a1c525933947790" tvg-id="697140a85d851f5e69414688-66e8d5d20a1c525933947790" tvg-chno="" tvg-name="Homes Under the Hammer" tvg-logo="https://provider-static.plex.tv/epg/cms/production/763ac36e-6b69-46b2-8197-c789a459e897/Homes_hammer_white.png" group-title="Food & Home",Homes Under the Hammer
+https://jmp2.uk/plex-697140a85d851f5e69414688-66e8d5d20a1c525933947790.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-6582a1316b91be4547aa153c" tvg-id="697140a85d851f5e69414688-6582a1316b91be4547aa153c" tvg-chno="" tvg-name="Hot Ones" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png" group-title="Daytime TV",Hot Ones
 https://jmp2.uk/plex-697140a85d851f5e69414688-6582a1316b91be4547aa153c.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-5fd115b7b7ef8d002dcf1814" tvg-id="697140a85d851f5e69414688-5fd115b7b7ef8d002dcf1814" tvg-chno="" tvg-name="Humor Mill" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png" group-title="Comedy",Humor Mill
