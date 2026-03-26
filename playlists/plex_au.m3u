@@ -5,8 +5,6 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-63eecb32ac23d1ee072087cb.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-66f6b947515e742745f5ca34.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-63894c1965b848bf2c8a7800" tvg-id="697140a85d851f5e69414688-63894c1965b848bf2c8a7800" tvg-chno="" tvg-name="5-Minute Crafts" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" group-title="Food & Home",5-Minute Crafts
 https://jmp2.uk/plex-697140a85d851f5e69414688-63894c1965b848bf2c8a7800.m3u8
-#EXTINF:-1 channel-id="697140a85d851f5e69414688-686450561407335ea0f95542" tvg-id="697140a85d851f5e69414688-686450561407335ea0f95542" tvg-chno="" tvg-name="A Haunting" tvg-logo="https://provider-static.plex.tv/epg/cms/production/37a592ac-3828-44d7-95f1-3cbdd4a3e6c1/A_Haunting_whiteRDX.png" group-title="Uncategorized",A Haunting
-https://jmp2.uk/plex-697140a85d851f5e69414688-686450561407335ea0f95542.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-63504925a97bd70eaef54f01" tvg-id="697140a85d851f5e69414688-63504925a97bd70eaef54f01" tvg-chno="" tvg-name="ACL Cornhole TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d1076185-58d6-411b-ba73-1126837074dd/Plex_cornhole__1500x1000_white_-_Brendan_Canning_white_rdx.png" group-title="Sports",ACL Cornhole TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-63504925a97bd70eaef54f01.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-66be944f8711311880995280" tvg-id="697140a85d851f5e69414688-66be944f8711311880995280" tvg-chno="" tvg-name="Action Hollywood Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="Sci-Fi & Action",Action Hollywood Movies
@@ -247,6 +245,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-682dff1fdfc9c452b8f9842a.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-69153808ca8cd63ab14ece0d.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-656fb124cb7e8e6a9bc3f36a" tvg-id="697140a85d851f5e69414688-656fb124cb7e8e6a9bc3f36a" tvg-chno="" tvg-name="Kidz Bop TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ca4eaf02-b31d-4b56-8cad-1ff4601bb17b/KB_PLEX_1500x1000_Logo-Light-BG_-_James_Stowe.png" group-title="Kids & Family",Kidz Bop TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-656fb124cb7e8e6a9bc3f36a.m3u8
+#EXTINF:-1 channel-id="697140a85d851f5e69414688-69bb1f002028859eafc637e1" tvg-id="697140a85d851f5e69414688-69bb1f002028859eafc637e1" tvg-chno="" tvg-name="Legacy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png" group-title="Uncategorized",Legacy
+https://jmp2.uk/plex-697140a85d851f5e69414688-69bb1f002028859eafc637e1.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-67c2496d45ae99120c071588" tvg-id="697140a85d851f5e69414688-67c2496d45ae99120c071588" tvg-chno="" tvg-name="Life Down Under" tvg-logo="https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png" group-title="Uncategorized",Life Down Under
 https://jmp2.uk/plex-697140a85d851f5e69414688-67c2496d45ae99120c071588.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-666e1bc2d91d13cb4c8cbb6f" tvg-id="697140a85d851f5e69414688-666e1bc2d91d13cb4c8cbb6f" tvg-chno="" tvg-name="Life+Style" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c61624db-2926-433a-850c-a9ce4a359336/channel_logo_1500x1000_light.png.png" group-title="Lifestyle",Life+Style
@@ -499,8 +499,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-614398a08f30fa61e0da7c97.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-68b74890b5b437bf872b6b72.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-68b74a235dc5413c905efd62" tvg-id="697140a85d851f5e69414688-68b74a235dc5413c905efd62" tvg-chno="" tvg-name="TV5MONDE Voyage" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1fbf682f-90ba-4318-a649-12c7f89cdc48/LOGO_PLEX_VOYAGE_1500X1000_WHITE.png" group-title="Uncategorized",TV5MONDE Voyage
 https://jmp2.uk/plex-697140a85d851f5e69414688-68b74a235dc5413c905efd62.m3u8
-#EXTINF:-1 channel-id="697140a85d851f5e69414688-66ccae1a78822c7edc4b6df1" tvg-id="697140a85d851f5e69414688-66ccae1a78822c7edc4b6df1" tvg-chno="" tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e1cfac6a-9e69-443a-b14c-c99e2cb50ead/UFC_logo_WHT_1500x1000.png" group-title="Sports",UFC
-https://jmp2.uk/plex-697140a85d851f5e69414688-66ccae1a78822c7edc4b6df1.m3u8
+#EXTINF:-1 channel-id="697140a85d851f5e69414688-66ccac69fdf9cd3a568ef135" tvg-id="697140a85d851f5e69414688-66ccac69fdf9cd3a568ef135" tvg-chno="" tvg-name="UFC" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png" group-title="Sports",UFC
+https://jmp2.uk/plex-697140a85d851f5e69414688-66ccac69fdf9cd3a568ef135.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-67f45ef989089d917e1b1634" tvg-id="697140a85d851f5e69414688-67f45ef989089d917e1b1634" tvg-chno="" tvg-name="Unbeaten" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png" group-title="Sports",Unbeaten
 https://jmp2.uk/plex-697140a85d851f5e69414688-67f45ef989089d917e1b1634.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-69154308e449c6fdde65a661" tvg-id="697140a85d851f5e69414688-69154308e449c6fdde65a661" tvg-chno="" tvg-name="Undercover Boss" tvg-logo="https://provider-static.plex.tv/epg/cms/production/55dfbe72-b7f5-4aa6-8d39-06fc2f94de6a/UndercoverBoss_DarkLogo.png" group-title="Uncategorized",Undercover Boss
