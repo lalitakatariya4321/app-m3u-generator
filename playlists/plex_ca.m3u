@@ -311,7 +311,7 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-67a147a7114554261db9e45d.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5eea605574085f0040ddc782.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-64d2bdf1b18b113e0c610113" tvg-id="647f8d22a2fc3fadb4721685-64d2bdf1b18b113e0c610113" tvg-chno="" tvg-name="GameTVGO" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8c3aad2c9b28628409cee12512aecb32.png" group-title="Uncategorized",GameTVGO
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64d2bdf1b18b113e0c610113.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-63d6f9b67c3070b6e06e0aad" tvg-id="647f8d22a2fc3fadb4721685-63d6f9b67c3070b6e06e0aad" tvg-chno="" tvg-name="Gardening with Monty Don" tvg-logo="https://provider-static.plex.tv/epg/cms/production/db913c01-eb1b-4e36-9f88-f7fe25389bc4/Wurl_GWMD_ChannelAllWhite_1500x1000.png" group-title="Food & Home",Gardening with Monty Don
+#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-63d6f9b67c3070b6e06e0aad" tvg-id="647f8d22a2fc3fadb4721685-63d6f9b67c3070b6e06e0aad" tvg-chno="" tvg-name="Garden with Monty Don" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eb442bf5-7b1e-4451-8846-f37363c2fa77/garden_green_wht.png" group-title="Uncategorized",Garden with Monty Don
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-63d6f9b67c3070b6e06e0aad.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6699937717c9985deeb74e39" tvg-id="647f8d22a2fc3fadb4721685-6699937717c9985deeb74e39" tvg-chno="" tvg-name="Get.Factual" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d8ac3d3f-88be-4d2a-89f3-608f02e15728/GetFactual_Dark_Mode_Logordx.png" group-title="History & Science",Get.Factual
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6699937717c9985deeb74e39.m3u8
@@ -747,8 +747,6 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-5eea71d65252710041e0ccbc.m3u8
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-64f123008d44f2871135a905.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-62f11395586633e88e3a3274" tvg-id="647f8d22a2fc3fadb4721685-62f11395586633e88e3a3274" tvg-chno="" tvg-name="The Spa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59eb2e05-e614-4880-a463-5cb254800db9/SPA.png" group-title="Music",The Spa
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-62f11395586633e88e3a3274.m3u8
-#EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-687e844aaea985ecb41312f3" tvg-id="647f8d22a2fc3fadb4721685-687e844aaea985ecb41312f3" tvg-chno="" tvg-name="The Weather Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e649777c-5e1f-4d1b-aab5-5fbfcc651be2/weatherdownloadWHITE_LETTERS.png" group-title="Uncategorized",The Weather Network
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-687e844aaea985ecb41312f3.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-6623c335ed4918437ed56ec0" tvg-id="647f8d22a2fc3fadb4721685-6623c335ed4918437ed56ec0" tvg-chno="" tvg-name="The Wicked Tuna Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/07609811-826b-4726-a471-1c009b77fdeb/WickedTuna_Logo_Blue_1500x1000_-_Chris_Connors.png" group-title="Hit TV, Reality",The Wicked Tuna Channel
 https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-6623c335ed4918437ed56ec0.m3u8
 #EXTINF:-1 channel-id="647f8d22a2fc3fadb4721685-68e0371d8bbd79d66c631ab2" tvg-id="647f8d22a2fc3fadb4721685-68e0371d8bbd79d66c631ab2" tvg-chno="" tvg-name="The Wiggles" tvg-logo="https://provider-static.plex.tv/epg/cms/production/38d8759c-fb94-4154-ba4d-8450e99662cd/FilmRiseLogo_WigglesClassic_Color_Logo.png" group-title="Uncategorized",The Wiggles
