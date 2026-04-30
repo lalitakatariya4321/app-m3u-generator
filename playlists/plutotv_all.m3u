@@ -1139,7 +1139,7 @@ https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
 https://jmp2.uk/plu-626c2ed933a2890007e91422.m3u8
 #EXTINF:-1 channel-id="62bdaf9cf1bdc500073a8bcb-ca" tvg-id="62bdaf9cf1bdc500073a8bcb" tvg-chno="985" tvg-name="Declassified" tvg-logo="https://images.pluto.tv/channels/62bdaf9cf1bdc500073a8bcb/colorLogoPNG.png" group-title="Canada",Declassified
 https://jmp2.uk/plu-62bdaf9cf1bdc500073a8bcb.m3u8
-#EXTINF:-1 channel-id="5c6eeb85c05dfc257e5a50c4-us" tvg-id="5c6eeb85c05dfc257e5a50c4" tvg-chno="1170" tvg-name="Degrassi" tvg-logo="https://images.pluto.tv/channels/5c6eeb85c05dfc257e5a50c4/colorLogoPNG.png" group-title="United States",Degrassi
+#EXTINF:-1 channel-id="5c6eeb85c05dfc257e5a50c4-us" tvg-id="5c6eeb85c05dfc257e5a50c4" tvg-chno="1170" tvg-name="Degrassi" tvg-logo="https://images.pluto.tv/channels/5c6eeb85c05dfc257e5a50c4/colorLogoPNG_1777484317786.png" group-title="United States",Degrassi
 https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8
 #EXTINF:-1 channel-id="62bdaf3470f09a000714a2f6-ca" tvg-id="62bdaf3470f09a000714a2f6" tvg-chno="640" tvg-name="Degrassi" tvg-logo="https://images.pluto.tv/channels/62bdaf3470f09a000714a2f6/colorLogoPNG.png" group-title="Canada",Degrassi
 https://jmp2.uk/plu-62bdaf3470f09a000714a2f6.m3u8
@@ -1689,12 +1689,6 @@ https://jmp2.uk/plu-62cc00b3b821cf00070f82c3.m3u8
 https://jmp2.uk/plu-62cc0120880c890007191016.m3u8
 #EXTINF:-1 channel-id="5417a212ff9fba68282fbf5e-us" tvg-id="5417a212ff9fba68282fbf5e" tvg-chno="2885" tvg-name="GLORY Kickboxing" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="United States",GLORY Kickboxing
 https://jmp2.uk/plu-5417a212ff9fba68282fbf5e.m3u8
-#EXTINF:-1 channel-id="65e9b676332fec00085b300e-no" tvg-id="65e9b676332fec00085b300e" tvg-chno="182" tvg-name="Glory Kickboxing" tvg-logo="https://images.pluto.tv/channels/65e9b676332fec00085b300e/colorLogoPNG.png" group-title="Norway",Glory Kickboxing
-https://jmp2.uk/plu-65e9b676332fec00085b300e.m3u8
-#EXTINF:-1 channel-id="65e9b6b58145cb00084d24ee-se" tvg-id="65e9b6b58145cb00084d24ee" tvg-chno="142" tvg-name="Glory Kickboxing" tvg-logo="https://images.pluto.tv/channels/65e9b6b58145cb00084d24ee/colorLogoPNG.png" group-title="Sweden",Glory Kickboxing
-https://jmp2.uk/plu-65e9b6b58145cb00084d24ee.m3u8
-#EXTINF:-1 channel-id="65e9b6498b24c8000806b982-dk" tvg-id="65e9b6498b24c8000806b982" tvg-chno="237" tvg-name="Glory Kickboxing" tvg-logo="https://images.pluto.tv/channels/65e9b6498b24c8000806b982/colorLogoPNG.png" group-title="Denmark",Glory Kickboxing
-https://jmp2.uk/plu-65e9b6498b24c8000806b982.m3u8
 #EXTINF:-1 channel-id="667f3852efa2a10008e1e514-us" tvg-id="667f3852efa2a10008e1e514" tvg-chno="3815" tvg-name="Go Go Gadget!" tvg-logo="https://images.pluto.tv/channels/667f3852efa2a10008e1e514/colorLogoPNG.png" group-title="United States",Go Go Gadget!
 https://jmp2.uk/plu-667f3852efa2a10008e1e514.m3u8
 #EXTINF:-1 channel-id="63a0e33a45264d000850ed7e-us" tvg-id="63a0e33a45264d000850ed7e" tvg-chno="2830" tvg-name="Golazo Network" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png" group-title="United States",Golazo Network
@@ -3535,7 +3529,7 @@ https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
 https://jmp2.uk/plu-691ddf2a3ae32cf55263476d.m3u8
 #EXTINF:-1 channel-id="62f3e0522443200008c567d7-fr" tvg-id="62f3e0522443200008c567d7" tvg-chno="265" tvg-name="Pluto TV French Collection" tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png" group-title="France",Pluto TV French Collection
 https://jmp2.uk/plu-62f3e0522443200008c567d7.m3u8
-#EXTINF:-1 channel-id="63c6e37e636b7e0007ccb635-cl" tvg-id="63c6e37e636b7e0007ccb635" tvg-chno="780" tvg-name="Pluto TV Fútbol" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG_1777404075190.png" group-title="Chile",Pluto TV Fútbol
+#EXTINF:-1 channel-id="63c6e37e636b7e0007ccb635-cl" tvg-id="63c6e37e636b7e0007ccb635" tvg-chno="780" tvg-name="Pluto TV Fútbol" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG_1777492822828.png" group-title="Chile",Pluto TV Fútbol
 https://jmp2.uk/plu-63c6e37e636b7e0007ccb635.m3u8
 #EXTINF:-1 channel-id="6036e7c385749f00075dbd3b-us" tvg-id="6036e7c385749f00075dbd3b" tvg-chno="2350" tvg-name="Pluto TV Game Shows" tvg-logo="https://images.pluto.tv/channels/6036e7c385749f00075dbd3b/colorLogoPNG.png" group-title="United States",Pluto TV Game Shows
 https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
@@ -4483,6 +4477,8 @@ https://jmp2.uk/plu-68b784d03e17b7676a0378f7.m3u8
 https://jmp2.uk/plu-68b784d03e17b7676a0378f7.m3u8
 #EXTINF:-1 channel-id="68ee9a999938143525bfc385-us" tvg-id="68ee9a999938143525bfc385" tvg-chno="2512" tvg-name="Shop LC" tvg-logo="https://images.pluto.tv/channels/68ee9a999938143525bfc385/colorLogoPNG_1760999630595.png" group-title="United States",Shop LC
 https://jmp2.uk/plu-68ee9a999938143525bfc385.m3u8
+#EXTINF:-1 channel-id="697a34496f47f39d31ff8bde-fr" tvg-id="697a34496f47f39d31ff8bde" tvg-chno="11" tvg-name="Si près de chez vous" tvg-logo="https://images.pluto.tv/channels/697a34496f47f39d31ff8bde/colorLogoPNG_1771923879114.png" group-title="France",Si près de chez vous
+https://jmp2.uk/plu-697a34496f47f39d31ff8bde.m3u8
 #EXTINF:-1 channel-id="688a20c69034bd35f34aaa9e-dk" tvg-id="688a20c69034bd35f34aaa9e" tvg-chno="132" tvg-name="Simba Prisen" tvg-logo="https://images.pluto.tv/channels/688a20c69034bd35f34aaa9e/colorLogoPNG_1756968851681.png" group-title="Denmark",Simba Prisen
 https://jmp2.uk/plu-688a20c69034bd35f34aaa9e.m3u8
 #EXTINF:-1 channel-id="604bdf4e6d0abc0007ba77ad-mx" tvg-id="604bdf4e6d0abc0007ba77ad" tvg-chno="328" tvg-name="Sin Tetas No Hay Paraíso" tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png" group-title="Mexico",Sin Tetas No Hay Paraíso
@@ -5045,7 +5041,7 @@ https://jmp2.uk/plu-677fb0231da79bfe4fb0bf4e.m3u8
 https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
 #EXTINF:-1 channel-id="68b5a97fc8ef6afa31138718-gb" tvg-id="68b5a97fc8ef6afa31138718" tvg-chno="890" tvg-name="The Smurfs" tvg-logo="https://images.pluto.tv/channels/68b5a97fc8ef6afa31138718/colorLogoPNG_1760380526292.png" group-title="United Kingdom",The Smurfs
 https://jmp2.uk/plu-68b5a97fc8ef6afa31138718.m3u8
-#EXTINF:-1 channel-id="67352ed93a61d4000881f9fa-us" tvg-id="67352ed93a61d4000881f9fa" tvg-chno="857" tvg-name="The Twilight Zone" tvg-logo="https://images.pluto.tv/channels/67352ed93a61d4000881f9fa/colorLogoPNG_1732662672508.png" group-title="United States",The Twilight Zone
+#EXTINF:-1 channel-id="67352ed93a61d4000881f9fa-us" tvg-id="67352ed93a61d4000881f9fa" tvg-chno="859" tvg-name="The Twilight Zone" tvg-logo="https://images.pluto.tv/channels/67352ed93a61d4000881f9fa/colorLogoPNG_1732662672508.png" group-title="United States",The Twilight Zone
 https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
 #EXTINF:-1 channel-id="6512d3a0bdcb19000799cc82-no" tvg-id="6512d3a0bdcb19000799cc82" tvg-chno="686" tvg-name="The Twilight Zone" tvg-logo="https://images.pluto.tv/channels/6512d3a0bdcb19000799cc82/colorLogoPNG.png" group-title="Norway",The Twilight Zone
 https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8
