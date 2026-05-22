@@ -149,6 +149,8 @@ https://jmp2.uk/plex-6430aa45fc3be5947780904e-60e737a4ebef9d002c4d0a0c.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-60e737a4ebef9d002c4d0a0c.m3u8
 #EXTINF:-1 channel-id="6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59-fr" tvg-id="6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59" tvg-chno="" tvg-name="Alerte à Malibu TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb65dea3-d6c1-403e-830f-361a01204fa1/All_White_Alerte-A-Malibu.png" group-title="France",Alerte à Malibu TV
 https://jmp2.uk/plex-6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59.m3u8
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-62d1ecc8e44d39da220722aa-us" tvg-id="5e20b730f2f8d5003d739db7-62d1ecc8e44d39da220722aa" tvg-chno="" tvg-name="ALF" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff75dc12d5abb10dff1ec781ae19c566.png" group-title="United States",ALF
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-62d1ecc8e44d39da220722aa.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-63d6f799a9e88ee909e7ee21-us" tvg-id="5e20b730f2f8d5003d739db7-63d6f799a9e88ee909e7ee21" tvg-chno="" tvg-name="Alien Nation by DUST" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7d5598a6-e100-4fab-979a-cbf775aa8aa7/Alien-Nation_logo_blue_1500x1000.png" group-title="United States",Alien Nation by DUST
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-63d6f799a9e88ee909e7ee21.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-64d4ee537b323f6abbd19e59-us" tvg-id="5e20b730f2f8d5003d739db7-64d4ee537b323f6abbd19e59" tvg-chno="" tvg-name="Aliwko" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e20f693c-bf2d-448e-884b-36ec8d382eb7/Aliwko_Plexlogo_1500x1000_-_Ali_Clausen_color.png" group-title="United States",Aliwko
