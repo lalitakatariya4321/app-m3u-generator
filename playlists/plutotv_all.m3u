@@ -765,6 +765,8 @@ https://jmp2.uk/plu-65e9783b0d456100082d9e05.m3u8
 https://jmp2.uk/plu-65e976ad0d456100082d9b74.m3u8
 #EXTINF:-1 channel-id="60dc6937b450ad0007377e48-fr" tvg-id="60dc6937b450ad0007377e48" tvg-chno="1010" tvg-name="Charlotte aux Fraises" tvg-logo="https://images.pluto.tv/channels/60dc6937b450ad0007377e48/colorLogoPNG.png" group-title="France",Charlotte aux Fraises
 https://jmp2.uk/plu-60dc6937b450ad0007377e48.m3u8
+#EXTINF:-1 channel-id="6a2b0d669465b98649cd0ba1-us" tvg-id="6a2b0d669465b98649cd0ba1" tvg-chno="859" tvg-name="Charmed" tvg-logo="https://images.pluto.tv/channels/6a2b0d669465b98649cd0ba1/colorLogoPNG_1782946583491.png" group-title="United States",Charmed
+https://jmp2.uk/plu-6a2b0d669465b98649cd0ba1.m3u8
 #EXTINF:-1 channel-id="67f9602ee173fa5664fafae8-br" tvg-id="67f9602ee173fa5664fafae8" tvg-chno="148" tvg-name="Charmed: Jovens Bruxas" tvg-logo="https://images.pluto.tv/channels/67f9602ee173fa5664fafae8/colorLogoPNG_1747333127716.png" group-title="Brazil",Charmed: Jovens Bruxas
 https://jmp2.uk/plu-67f9602ee173fa5664fafae8.m3u8
 #EXTINF:-1 channel-id="61c1dda0fe470d00080f85b8-no" tvg-id="61c1dda0fe470d00080f85b8" tvg-chno="58" tvg-name="Charterfeber" tvg-logo="https://images.pluto.tv/channels/61c1dda0fe470d00080f85b8/colorLogoPNG.png" group-title="Norway",Charterfeber
@@ -1171,6 +1173,8 @@ https://jmp2.uk/plu-638df93ae2f2a3000737c168.m3u8
 https://jmp2.uk/plu-66461f433d173b000805eeeb.m3u8
 #EXTINF:-1 channel-id="66461eb33d173b000805ecd3-dk" tvg-id="66461eb33d173b000805ecd3" tvg-chno="223" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461eb33d173b000805ecd3/colorLogoPNG_1769414804838.png" group-title="Denmark",DFB Play TV
 https://jmp2.uk/plu-66461eb33d173b000805ecd3.m3u8
+#EXTINF:-1 channel-id="6a2b0eab9465b98649cd0d2f-us" tvg-id="6a2b0eab9465b98649cd0d2f" tvg-chno="685" tvg-name="Diagnosis Murder" tvg-logo="https://images.pluto.tv/channels/6a2b0eab9465b98649cd0d2f/colorLogoPNG_1782946685197.png" group-title="United States",Diagnosis Murder
+https://jmp2.uk/plu-6a2b0eab9465b98649cd0d2f.m3u8
 #EXTINF:-1 channel-id="65fd548f29adfd00089c662c-ca" tvg-id="65fd548f29adfd00089c662c" tvg-chno="435" tvg-name="Diagnosis Murder" tvg-logo="https://images.pluto.tv/channels/65fd548f29adfd00089c662c/colorLogoPNG.png" group-title="Canada",Diagnosis Murder
 https://jmp2.uk/plu-65fd548f29adfd00089c662c.m3u8
 #EXTINF:-1 channel-id="668bf91208d5490008065ffd-no" tvg-id="668bf91208d5490008065ffd" tvg-chno="606" tvg-name="Diagnosis Murder" tvg-logo="https://images.pluto.tv/channels/668bf91208d5490008065ffd/colorLogoPNG.png" group-title="Norway",Diagnosis Murder
@@ -1203,8 +1207,6 @@ https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
 https://jmp2.uk/plu-678f8676ad083171df19ca07.m3u8
 #EXTINF:-1 channel-id="62e922f6675f71000736db3b-ca" tvg-id="62e922f6675f71000736db3b" tvg-chno="655" tvg-name="Doc Martin" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" group-title="Canada",Doc Martin
 https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
-#EXTINF:-1 channel-id="62724ae034f5190007b63424-no" tvg-id="62724ae034f5190007b63424" tvg-chno="262" tvg-name="Doc Martin" tvg-logo="https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png" group-title="Norway",Doc Martin
-https://jmp2.uk/plu-62724ae034f5190007b63424.m3u8
 #EXTINF:-1 channel-id="62b1e5e77d15410007f798c6-se" tvg-id="62b1e5e77d15410007f798c6" tvg-chno="216" tvg-name="Doc Martin" tvg-logo="https://images.pluto.tv/channels/62b1e5e77d15410007f798c6/colorLogoPNG.png" group-title="Sweden",Doc Martin
 https://jmp2.uk/plu-62b1e5e77d15410007f798c6.m3u8
 #EXTINF:-1 channel-id="5ce4475cd43850831ca91ce7-us" tvg-id="5ce4475cd43850831ca91ce7" tvg-chno="870" tvg-name="Doctor Who Classic" tvg-logo="https://images.pluto.tv/channels/5ce4475cd43850831ca91ce7/colorLogoPNG.png" group-title="United States",Doctor Who Classic
@@ -1259,6 +1261,8 @@ https://jmp2.uk/plu-697c9bc2a7ce9d5a3d83504a.m3u8
 https://jmp2.uk/plu-697c9bc2a7ce9d5a3d83504a.m3u8
 #EXTINF:-1 channel-id="697c9bc2a7ce9d5a3d83504a-ar" tvg-id="697c9bc2a7ce9d5a3d83504a" tvg-chno="595" tvg-name="Dr. G" tvg-logo="https://images.pluto.tv/channels/697c9bc2a7ce9d5a3d83504a/colorLogoPNG_1771861519995.png" group-title="Argentina",Dr. G
 https://jmp2.uk/plu-697c9bc2a7ce9d5a3d83504a.m3u8
+#EXTINF:-1 channel-id="6a2b0f2509705ebdf781231d-us" tvg-id="6a2b0f2509705ebdf781231d" tvg-chno="799" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/6a2b0f2509705ebdf781231d/colorLogoPNG_1782946772357.png" group-title="United States",Dr. Quinn Medicine Woman
+https://jmp2.uk/plu-6a2b0f2509705ebdf781231d.m3u8
 #EXTINF:-1 channel-id="68f0f7571d26140175255e43-no" tvg-id="68f0f7571d26140175255e43" tvg-chno="257" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/68f0f7571d26140175255e43/colorLogoPNG_1762768410794.png" group-title="Norway",Dr. Quinn Medicine Woman
 https://jmp2.uk/plu-68f0f7571d26140175255e43.m3u8
 #EXTINF:-1 channel-id="68f0f7dea362b63a8df50bd4-se" tvg-id="68f0f7dea362b63a8df50bd4" tvg-chno="208" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/68f0f7dea362b63a8df50bd4/colorLogoPNG_1762757713795.png" group-title="Sweden",Dr. Quinn Medicine Woman
@@ -1307,8 +1311,6 @@ https://jmp2.uk/plu-66f1331f9409630008077623.m3u8
 https://jmp2.uk/plu-6675c713fc3a46000863dde7.m3u8
 #EXTINF:-1 channel-id="63b578b524f0cf00072f2a52-fr" tvg-id="63b578b524f0cf00072f2a52" tvg-chno="915" tvg-name="Echappées Belles & Co" tvg-logo="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png" group-title="France",Echappées Belles & Co
 https://jmp2.uk/plu-63b578b524f0cf00072f2a52.m3u8
-#EXTINF:-1 channel-id="646ce0e2e1979c0008983939-se" tvg-id="646ce0e2e1979c0008983939" tvg-chno="707" tvg-name="Efterlyst" tvg-logo="https://images.pluto.tv/channels/646ce0e2e1979c0008983939/colorLogoPNG.png" group-title="Sweden",Efterlyst
-https://jmp2.uk/plu-646ce0e2e1979c0008983939.m3u8
 #EXTINF:-1 channel-id="622f487722d9d400075f74dd-de" tvg-id="622f487722d9d400075f74dd" tvg-chno="242" tvg-name="Ein Engel auf Erden" tvg-logo="https://images.pluto.tv/channels/622f487722d9d400075f74dd/colorLogoPNG.png" group-title="Germany",Ein Engel auf Erden
 https://jmp2.uk/plu-622f487722d9d400075f74dd.m3u8
 #EXTINF:-1 channel-id="66a244d5cd0d3100083b1e47-de" tvg-id="66a244d5cd0d3100083b1e47" tvg-chno="188" tvg-name="Eine himmlische Familie" tvg-logo="https://images.pluto.tv/channels/66a244d5cd0d3100083b1e47/colorLogoPNG.png" group-title="Germany",Eine himmlische Familie
@@ -1643,6 +1645,8 @@ https://jmp2.uk/plu-64e561a4354251000823a0e0.m3u8
 https://jmp2.uk/plu-5f27bbe4779de70007a6d1c1.m3u8
 #EXTINF:-1 channel-id="65cf8ace332fec00081e7ea2-ca" tvg-id="65cf8ace332fec00081e7ea2" tvg-chno="590" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/65cf8ace332fec00081e7ea2/colorLogoPNG.png" group-title="Canada",Ghost Hunters
 https://jmp2.uk/plu-65cf8ace332fec00081e7ea2.m3u8
+#EXTINF:-1 channel-id="6a2b0e66c2b638404f0a4ffb-us" tvg-id="6a2b0e66c2b638404f0a4ffb" tvg-chno="860" tvg-name="Ghost Whisperer" tvg-logo="https://images.pluto.tv/channels/6a2b0e66c2b638404f0a4ffb/colorLogoPNG_1782946863231.png" group-title="United States",Ghost Whisperer
+https://jmp2.uk/plu-6a2b0e66c2b638404f0a4ffb.m3u8
 #EXTINF:-1 channel-id="68d27437e6767bdeb23f0336-de" tvg-id="68d27437e6767bdeb23f0336" tvg-chno="221" tvg-name="Gigolos" tvg-logo="https://images.pluto.tv/channels/68d27437e6767bdeb23f0336/colorLogoPNG_1758705599610.png" group-title="Germany",Gigolos
 https://jmp2.uk/plu-68d27437e6767bdeb23f0336.m3u8
 #EXTINF:-1 channel-id="66ba1e4446762a000855cd87-gb" tvg-id="66ba1e4446762a000855cd87" tvg-chno="304" tvg-name="Girlfriends" tvg-logo="https://images.pluto.tv/channels/66ba1e4446762a000855cd87/colorLogoPNG.png" group-title="United Kingdom",Girlfriends
@@ -2219,7 +2223,7 @@ https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 https://jmp2.uk/plu-5eb301b7395671000780d100.m3u8
 #EXTINF:-1 channel-id="60493283ffc52f000710edae-us" tvg-id="60493283ffc52f000710edae" tvg-chno="3750" tvg-name="Little Angel's Playroom en Español" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="United States",Little Angel's Playroom en Español
 https://jmp2.uk/plu-60493283ffc52f000710edae.m3u8
-#EXTINF:-1 channel-id="654933ac986ad20008a1f406-us" tvg-id="654933ac986ad20008a1f406" tvg-chno="640" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="United States",Little House on the Prairie
+#EXTINF:-1 channel-id="654933ac986ad20008a1f406-us" tvg-id="654933ac986ad20008a1f406" tvg-chno="798" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="United States",Little House on the Prairie
 https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
 #EXTINF:-1 channel-id="51c75f7bb6f26ba1cd00002f-us" tvg-id="51c75f7bb6f26ba1cd00002f" tvg-chno="3730" tvg-name="Little Stars Universe" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="United States",Little Stars Universe
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
@@ -3369,7 +3373,7 @@ https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
 https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
 #EXTINF:-1 channel-id="5dd6ddb30a1d8a000908ed4c-ar" tvg-id="5dd6ddb30a1d8a000908ed4c" tvg-chno="90" tvg-name="Pluto TV Cine Familia" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1782776617815.png" group-title="Argentina",Pluto TV Cine Familia
 https://jmp2.uk/plu-5dd6ddb30a1d8a000908ed4c.m3u8
-#EXTINF:-1 channel-id="5f171f032cd22e0007f17f3d-br" tvg-id="5f171f032cd22e0007f17f3d" tvg-chno="71" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png" group-title="Brazil",Pluto TV Cine Família
+#EXTINF:-1 channel-id="5f171f032cd22e0007f17f3d-br" tvg-id="5f171f032cd22e0007f17f3d" tvg-chno="71" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1783017834757.png" group-title="Brazil",Pluto TV Cine Família
 https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
 #EXTINF:-1 channel-id="6806d519fea7414f33f57016-mx" tvg-id="6806d519fea7414f33f57016" tvg-chno="67" tvg-name="Pluto TV Cine Inspirador" tvg-logo="https://images.pluto.tv/channels/6806d519fea7414f33f57016/colorLogoPNG_1746817663597.png" group-title="Mexico",Pluto TV Cine Inspirador
 https://jmp2.uk/plu-6806d519fea7414f33f57016.m3u8
@@ -4797,7 +4801,7 @@ https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 #EXTINF:-1 channel-id="65cb73d33ba51e00084cabad-it" tvg-id="65cb73d33ba51e00084cabad" tvg-chno="355" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png" group-title="Italy",Star Trek: Voyager
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
-#EXTINF:-1 channel-id="620bfa7df72827000703ddb1-us" tvg-id="620bfa7df72827000703ddb1" tvg-chno="860" tvg-name="Stargate" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="United States",Stargate
+#EXTINF:-1 channel-id="620bfa7df72827000703ddb1-us" tvg-id="620bfa7df72827000703ddb1" tvg-chno="862" tvg-name="Stargate" tvg-logo="https://images.pluto.tv/channels/620bfa7df72827000703ddb1/colorLogoPNG.png" group-title="United States",Stargate
 https://jmp2.uk/plu-620bfa7df72827000703ddb1.m3u8
 #EXTINF:-1 channel-id="693bf37b75432d022c85ef01-ca" tvg-id="693bf37b75432d022c85ef01" tvg-chno="540" tvg-name="Stargate" tvg-logo="https://images.pluto.tv/channels/693bf37b75432d022c85ef01/colorLogoPNG_1765536677197.png" group-title="Canada",Stargate
 https://jmp2.uk/plu-693bf37b75432d022c85ef01.m3u8
@@ -5147,7 +5151,7 @@ https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
 https://jmp2.uk/plu-68b5a97fc8ef6afa31138718.m3u8
 #EXTINF:-1 channel-id="69b917d632eb9227dd6b427e-gb" tvg-id="69b917d632eb9227dd6b427e" tvg-chno="3" tvg-name="The Therapy Crouch" tvg-logo="https://images.pluto.tv/channels/69b917d632eb9227dd6b427e/colorLogoPNG_1775836696076.png" group-title="United Kingdom",The Therapy Crouch
 https://jmp2.uk/plu-69b917d632eb9227dd6b427e.m3u8
-#EXTINF:-1 channel-id="67352ed93a61d4000881f9fa-us" tvg-id="67352ed93a61d4000881f9fa" tvg-chno="859" tvg-name="The Twilight Zone" tvg-logo="https://images.pluto.tv/channels/67352ed93a61d4000881f9fa/colorLogoPNG_1732662672508.png" group-title="United States",The Twilight Zone
+#EXTINF:-1 channel-id="67352ed93a61d4000881f9fa-us" tvg-id="67352ed93a61d4000881f9fa" tvg-chno="861" tvg-name="The Twilight Zone" tvg-logo="https://images.pluto.tv/channels/67352ed93a61d4000881f9fa/colorLogoPNG_1732662672508.png" group-title="United States",The Twilight Zone
 https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
 #EXTINF:-1 channel-id="6512d3a0bdcb19000799cc82-no" tvg-id="6512d3a0bdcb19000799cc82" tvg-chno="686" tvg-name="The Twilight Zone" tvg-logo="https://images.pluto.tv/channels/6512d3a0bdcb19000799cc82/colorLogoPNG.png" group-title="Norway",The Twilight Zone
 https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8
@@ -5177,7 +5181,7 @@ https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
 https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
 #EXTINF:-1 channel-id="6964bc3806d76f50db3e315e-dk" tvg-id="6964bc3806d76f50db3e315e" tvg-chno="607" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/6964bc3806d76f50db3e315e/colorLogoPNG_1768230352673.png" group-title="Denmark",The Wild Wild West
 https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
-#EXTINF:-1 channel-id="6913e381b6bf26bb6e798c13-us" tvg-id="6913e381b6bf26bb6e798c13" tvg-chno="856" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png" group-title="United States",The X-Files
+#EXTINF:-1 channel-id="6913e381b6bf26bb6e798c13-us" tvg-id="6913e381b6bf26bb6e798c13" tvg-chno="850" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png" group-title="United States",The X-Files
 https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
 #EXTINF:-1 channel-id="691b023a7613e09a8b209539-ca" tvg-id="691b023a7613e09a8b209539" tvg-chno="530" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/691b023a7613e09a8b209539/colorLogoPNG_1767288050074.png" group-title="Canada",The X-Files
 https://jmp2.uk/plu-691b023a7613e09a8b209539.m3u8
@@ -5289,6 +5293,8 @@ https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8
 https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
 #EXTINF:-1 channel-id="61c0bbd95df1da0007bed5a0-dk" tvg-id="61c0bbd95df1da0007bed5a0" tvg-chno="999" tvg-name="Totally Turtles" tvg-logo="https://images.pluto.tv/channels/61c0bbd95df1da0007bed5a0/colorLogoPNG.png" group-title="Denmark",Totally Turtles
 https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
+#EXTINF:-1 channel-id="6a2b0edf201df02a8bfea30a-us" tvg-id="6a2b0edf201df02a8bfea30a" tvg-chno="730" tvg-name="Touched By An Angel" tvg-logo="https://images.pluto.tv/channels/6a2b0edf201df02a8bfea30a/colorLogoPNG_1782947651184.png" group-title="United States",Touched By An Angel
+https://jmp2.uk/plu-6a2b0edf201df02a8bfea30a.m3u8
 #EXTINF:-1 channel-id="68504098f212bedacf63a7e1-gb" tvg-id="68504098f212bedacf63a7e1" tvg-chno="255" tvg-name="Touched by an Angel" tvg-logo="https://images.pluto.tv/channels/68504098f212bedacf63a7e1/colorLogoPNG_1752724700982.png" group-title="United Kingdom",Touched by an Angel
 https://jmp2.uk/plu-68504098f212bedacf63a7e1.m3u8
 #EXTINF:-1 channel-id="65c69bf23ef47d0008583967-us" tvg-id="65c69bf23ef47d0008583967" tvg-chno="1485" tvg-name="Tough Jobs" tvg-logo="https://images.pluto.tv/channels/65c69bf23ef47d0008583967/colorLogoPNG.png" group-title="United States",Tough Jobs
