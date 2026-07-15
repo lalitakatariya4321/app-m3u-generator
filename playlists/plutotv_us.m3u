@@ -403,7 +403,7 @@ https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 https://jmp2.uk/plu-5eb301b7395671000780d100.m3u8
 #EXTINF:-1 channel-id="60493283ffc52f000710edae" tvg-id="60493283ffc52f000710edae" tvg-chno="3750" tvg-name="Little Angel's Playroom en Español" tvg-logo="https://images.pluto.tv/channels/60493283ffc52f000710edae/colorLogoPNG.png" group-title="Kids",Little Angel's Playroom en Español
 https://jmp2.uk/plu-60493283ffc52f000710edae.m3u8
-#EXTINF:-1 channel-id="654933ac986ad20008a1f406" tvg-id="654933ac986ad20008a1f406" tvg-chno="798" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="Americana",Little House on the Prairie
+#EXTINF:-1 channel-id="654933ac986ad20008a1f406" tvg-id="654933ac986ad20008a1f406" tvg-chno="798" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="Westerns",Little House on the Prairie
 https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
 #EXTINF:-1 channel-id="51c75f7bb6f26ba1cd00002f" tvg-id="51c75f7bb6f26ba1cd00002f" tvg-chno="3730" tvg-name="Little Stars Universe" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="Kids",Little Stars Universe
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
@@ -441,7 +441,7 @@ https://jmp2.uk/plu-5f4d882d5233170007ee880e.m3u8
 https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
 #EXTINF:-1 channel-id="65775d29dfed030008cb3db2" tvg-id="65775d29dfed030008cb3db2" tvg-chno="3100" tvg-name="Modern Marvels by HISTORY" tvg-logo="https://images.pluto.tv/channels/65775d29dfed030008cb3db2/colorLogoPNG.png" group-title="History + Science",Modern Marvels by HISTORY
 https://jmp2.uk/plu-65775d29dfed030008cb3db2.m3u8
-#EXTINF:-1 channel-id="65c69b683ba51e00084534a3" tvg-id="65c69b683ba51e00084534a3" tvg-chno="2970" tvg-name="Monster Jam" tvg-logo="https://images.pluto.tv/channels/65c69b683ba51e00084534a3/colorLogoPNG.png" group-title="Americana",Monster Jam
+#EXTINF:-1 channel-id="65c69b683ba51e00084534a3" tvg-id="65c69b683ba51e00084534a3" tvg-chno="2970" tvg-name="Monster Jam" tvg-logo="https://images.pluto.tv/channels/65c69b683ba51e00084534a3/colorLogoPNG.png" group-title="Sports",Monster Jam
 https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
 #EXTINF:-1 channel-id="6532e6a9bdf3cf000887ab29" tvg-id="6532e6a9bdf3cf000887ab29" tvg-chno="1230" tvg-name="More True Crime" tvg-logo="https://images.pluto.tv/channels/6532e6a9bdf3cf000887ab29/colorLogoPNG.png" group-title="True Crime",More True Crime
 https://jmp2.uk/plu-6532e6a9bdf3cf000887ab29.m3u8
@@ -769,7 +769,7 @@ https://jmp2.uk/plu-6a2b0edf201df02a8bfea30a.m3u8
 https://jmp2.uk/plu-65c69bf23ef47d0008583967.m3u8
 #EXTINF:-1 channel-id="60fb053712f22a0007ff14d2" tvg-id="60fb053712f22a0007ff14d2" tvg-chno="3810" tvg-name="Transformers TV" tvg-logo="https://images.pluto.tv/channels/60fb053712f22a0007ff14d2/colorLogoPNG.png" group-title="Kids",Transformers TV
 https://jmp2.uk/plu-60fb053712f22a0007ff14d2.m3u8
-#EXTINF:-1 channel-id="5d40bebc5e3d2750a2239d7e" tvg-id="5d40bebc5e3d2750a2239d7e" tvg-chno="1020" tvg-name="TV Land Drama" tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png" group-title="Americana",TV Land Drama
+#EXTINF:-1 channel-id="5d40bebc5e3d2750a2239d7e" tvg-id="5d40bebc5e3d2750a2239d7e" tvg-chno="1020" tvg-name="TV Land Drama" tvg-logo="https://images.pluto.tv/channels/5d40bebc5e3d2750a2239d7e/colorLogoPNG.png" group-title="Drama",TV Land Drama
 https://jmp2.uk/plu-5d40bebc5e3d2750a2239d7e.m3u8
 #EXTINF:-1 channel-id="5c2d64ffbdf11b71587184b8" tvg-id="5c2d64ffbdf11b71587184b8" tvg-chno="300" tvg-name="TV Land Sitcoms" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="Comedy",TV Land Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
