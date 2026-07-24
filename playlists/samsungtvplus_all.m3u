@@ -2339,7 +2339,7 @@ https://jmp2.uk/sam-AT3300001K9.m3u8
 https://jmp2.uk/sam-CH4600001X9.m3u8
 #EXTINF:-1 channel-id="DE33000013J-de" tvg-id="DE33000013J" tvg-chno="4263" tvg-name="Lindenstraße" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DE33000013J_20250513T005307SQUARE.png" group-title="Germany",Lindenstraße
 https://jmp2.uk/sam-DE33000013J.m3u8
-#EXTINF:-1 channel-id="US18000078A-us" tvg-id="US18000078A" tvg-chno="1001" tvg-name="Little House on the Prairie" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000078A_20260721T032948SQUARE.png" group-title="United States",Little House on the Prairie
+#EXTINF:-1 channel-id="US18000078A-us" tvg-id="US18000078A" tvg-chno="1001" tvg-name="Little House on the Prairie" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000078A_20260723T231136SQUARE.png" group-title="United States",Little House on the Prairie
 https://jmp2.uk/sam-US18000078A.m3u8
 #EXTINF:-1 channel-id="CA900007X0-ca" tvg-id="CA900007X0" tvg-chno="1910" tvg-name="Little Women: LA" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA900007X0_20260421T140919SQUARE.png" group-title="Canada",Little Women: LA
 https://jmp2.uk/sam-CA900007X0.m3u8
@@ -2583,7 +2583,7 @@ https://jmp2.uk/sam-DEBD26000034M.m3u8
 https://jmp2.uk/sam-GB4300003ZT.m3u8
 #EXTINF:-1 channel-id="CA1000004ZW-ca" tvg-id="CA1000004ZW" tvg-chno="2508" tvg-name="MotoAmerica TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1000004ZW_20260714T041042SQUARE.png" group-title="Canada",MotoAmerica TV
 https://jmp2.uk/sam-CA1000004ZW.m3u8
-#EXTINF:-1 channel-id="US1000014I6-us" tvg-id="US1000014I6" tvg-chno="1002" tvg-name="MotoAmerica TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000014I6_20260721T032958SQUARE.png" group-title="United States",MotoAmerica TV
+#EXTINF:-1 channel-id="US1000014I6-us" tvg-id="US1000014I6" tvg-chno="1002" tvg-name="MotoAmerica TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1000014I6_20260723T231146SQUARE.png" group-title="United States",MotoAmerica TV
 https://jmp2.uk/sam-US1000014I6.m3u8
 #EXTINF:-1 channel-id="US3500007C4-us" tvg-id="US3500007C4" tvg-chno="2533" tvg-name="MotoGP Channel" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500007C4_20260421T143306SQUARE.png" group-title="United States",MotoGP Channel
 https://jmp2.uk/sam-US3500007C4.m3u8
