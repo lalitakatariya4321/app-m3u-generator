@@ -183,8 +183,6 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-67c247c345ae99120c071586.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-5eea605474085f0040ddc76d.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-63f914bffe2c3d32e1a7929f" tvg-id="643054b1fc3be59477853717-63f914bffe2c3d32e1a7929f" tvg-chno="" tvg-name="GLORY Kickboxing" tvg-logo="https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png" group-title="Sports",GLORY Kickboxing
 https://jmp2.uk/plex-643054b1fc3be59477853717-63f914bffe2c3d32e1a7929f.m3u8
-#EXTINF:-1 channel-id="643054b1fc3be59477853717-60a9d105d162b9002d05a60c" tvg-id="643054b1fc3be59477853717-60a9d105d162b9002d05a60c" tvg-chno="" tvg-name="GoUSA TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png" group-title="Nature & Travel",GoUSA TV
-https://jmp2.uk/plex-643054b1fc3be59477853717-60a9d105d162b9002d05a60c.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-63489a771159f6a5ce819b7b" tvg-id="643054b1fc3be59477853717-63489a771159f6a5ce819b7b" tvg-chno="" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Classic TV",Grjngo - Western Movies
 https://jmp2.uk/plex-643054b1fc3be59477853717-63489a771159f6a5ce819b7b.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-5f8746eabd529300418246d9" tvg-id="643054b1fc3be59477853717-5f8746eabd529300418246d9" tvg-chno="" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Food & Home",GUSTOTV
@@ -219,6 +217,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-688d3402a6fe30698ab42007.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-6448ba1baf92c31f4a190c27.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-60d4edd6b2fdec002c141123" tvg-id="643054b1fc3be59477853717-60d4edd6b2fdec002c141123" tvg-chno="" tvg-name="Johnny Carson TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png" group-title="Classic TV",Johnny Carson TV
 https://jmp2.uk/plex-643054b1fc3be59477853717-60d4edd6b2fdec002c141123.m3u8
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-60a9d105d162b9002d05a60c" tvg-id="643054b1fc3be59477853717-60a9d105d162b9002d05a60c" tvg-chno="" tvg-name="Journy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png" group-title="Nature & Travel",Journy
+https://jmp2.uk/plex-643054b1fc3be59477853717-60a9d105d162b9002d05a60c.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-5f0ff262d71dcb00449ec018" tvg-id="643054b1fc3be59477853717-5f0ff262d71dcb00449ec018" tvg-chno="" tvg-name="Judge Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png" group-title="Daytime TV",Judge Nosey
 https://jmp2.uk/plex-643054b1fc3be59477853717-5f0ff262d71dcb00449ec018.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-64704954e536e0faaf10be9f" tvg-id="643054b1fc3be59477853717-64704954e536e0faaf10be9f" tvg-chno="" tvg-name="Just For Laughs Gags" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png" group-title="Comedy",Just For Laughs Gags
