@@ -183,6 +183,8 @@ https://jmp2.uk/plex-643054b1fc3be59477853717-63f914bffe2c3d32e1a7929f.m3u8
 https://jmp2.uk/plex-643054b1fc3be59477853717-63489a771159f6a5ce819b7b.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-5f8746eabd529300418246d9" tvg-id="643054b1fc3be59477853717-5f8746eabd529300418246d9" tvg-chno="" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Food & Home",GUSTOTV
 https://jmp2.uk/plex-643054b1fc3be59477853717-5f8746eabd529300418246d9.m3u8
+#EXTINF:-1 channel-id="643054b1fc3be59477853717-6a63ab81a1deb5624927c631" tvg-id="643054b1fc3be59477853717-6a63ab81a1deb5624927c631" tvg-chno="" tvg-name="H2O & Friends" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4e2190f-3258-400d-9b65-d92806a9e2c6/H20Channel_Logo_H2O_and_Friends_Color_-_Olivia_Beigh.png" group-title="Uncategorized",H2O & Friends
+https://jmp2.uk/plex-643054b1fc3be59477853717-6a63ab81a1deb5624927c631.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-5fd115bdb7ef8d002dcf1820" tvg-id="643054b1fc3be59477853717-5fd115bdb7ef8d002dcf1820" tvg-chno="" tvg-name="Hard Knocks" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" group-title="Sports",Hard Knocks
 https://jmp2.uk/plex-643054b1fc3be59477853717-5fd115bdb7ef8d002dcf1820.m3u8
 #EXTINF:-1 channel-id="643054b1fc3be59477853717-62ee7ae2271f393d2d9f709e" tvg-id="643054b1fc3be59477853717-62ee7ae2271f393d2d9f709e" tvg-chno="" tvg-name="Hip-Hop/R&B" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2693c8ce-05be-463b-894e-62e3a1f3b834/hip_hop_r_n_b_rdx.png" group-title="Music",Hip-Hop/R&B
