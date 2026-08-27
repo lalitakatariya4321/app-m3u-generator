@@ -347,6 +347,8 @@ https://jmp2.uk/plu-6914913274601d957ae35565.m3u8
 https://jmp2.uk/plu-667d63d236a2f90008f72269.m3u8
 #EXTINF:-1 channel-id="63f7e3f9dff38e00082a57af-mx" tvg-id="63f7e3f9dff38e00082a57af" tvg-chno="839" tvg-name="AYM Sports 3" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG_1787686705454.png" group-title="Mexico",AYM Sports 3
 https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
+#EXTINF:-1 channel-id="63f7e3f9dff38e00082a57af-ar" tvg-id="63f7e3f9dff38e00082a57af" tvg-chno="839" tvg-name="AYM Sports 3" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG_1787686705454.png" group-title="Argentina",AYM Sports 3
+https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
 #EXTINF:-1 channel-id="6582f002a620e3000813b329-ar" tvg-id="6582f002a620e3000813b329" tvg-chno="829" tvg-name="Azteca Deportes Network" tvg-logo="https://images.pluto.tv/channels/6582f002a620e3000813b329/colorLogoPNG.png" group-title="Argentina",Azteca Deportes Network
 https://jmp2.uk/plu-6582f002a620e3000813b329.m3u8
 #EXTINF:-1 channel-id="65cf60d166eec80008724e6f-mx" tvg-id="65cf60d166eec80008724e6f" tvg-chno="828" tvg-name="Azteca Deportes Premium" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Mexico",Azteca Deportes Premium
@@ -2127,8 +2129,6 @@ https://jmp2.uk/plu-682b39defaaa60cd7dbfa5c3.m3u8
 https://jmp2.uk/plu-682b385876963fba9abf0f26.m3u8
 #EXTINF:-1 channel-id="6900997e043e3df1897d017f-gb" tvg-id="6900997e043e3df1897d017f" tvg-chno="209" tvg-name="Ironside" tvg-logo="https://images.pluto.tv/channels/6900997e043e3df1897d017f/colorLogoPNG_1761664014410.png" group-title="United Kingdom",Ironside
 https://jmp2.uk/plu-6900997e043e3df1897d017f.m3u8
-#EXTINF:-1 channel-id="63f7e3f9dff38e00082a57af-ar" tvg-id="63f7e3f9dff38e00082a57af" tvg-chno="839" tvg-name="ITV Deportes" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG_1785346272947.png" group-title="Argentina",ITV Deportes
-https://jmp2.uk/plu-63f7e3f9dff38e00082a57af.m3u8
 #EXTINF:-1 channel-id="660d6b00635c75000828aa27-no" tvg-id="660d6b00635c75000828aa27" tvg-chno="436" tvg-name="Jade Fever" tvg-logo="https://images.pluto.tv/channels/660d6b00635c75000828aa27/colorLogoPNG.png" group-title="Norway",Jade Fever
 https://jmp2.uk/plu-660d6b00635c75000828aa27.m3u8
 #EXTINF:-1 channel-id="660d6b3caec9680008f8debe-se" tvg-id="660d6b3caec9680008f8debe" tvg-chno="374" tvg-name="Jade Fever" tvg-logo="https://images.pluto.tv/channels/660d6b3caec9680008f8debe/colorLogoPNG.png" group-title="Sweden",Jade Fever
