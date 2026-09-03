@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/Plex/us.xml.gz"
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-63eecb32ac23d1ee072087cb" tvg-id="6a1610bebdf296985fd95603-63eecb32ac23d1ee072087cb" tvg-chno="" tvg-name="123GO!" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" group-title="Kids & Family",123GO!
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-63eecb32ac23d1ee072087cb.m3u8
-#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-66f6b947515e742745f5ca34" tvg-id="6a1610bebdf296985fd95603-66f6b947515e742745f5ca34" tvg-chno="" tvg-name="21 Jump Street" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png" group-title="Classic TV",21 Jump Street
-https://jmp2.uk/plex-6a1610bebdf296985fd95603-66f6b947515e742745f5ca34.m3u8
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5fd115bab7ef8d002dcf181d" tvg-id="6a1610bebdf296985fd95603-5fd115bab7ef8d002dcf181d" tvg-chno="" tvg-name="24 Hour Free Movies" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="Movies",24 Hour Free Movies
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-5fd115bab7ef8d002dcf181d.m3u8
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6745dca72832b870acf53220" tvg-id="6a1610bebdf296985fd95603-6745dca72832b870acf53220" tvg-chno="" tvg-name="365BLK [FAST]" tvg-logo="https://provider-static.plex.tv/1/epg/channels/logos/gracenote/15a11cfd0f014785527aa0c87cbf6752.png" group-title="Uncategorized",365BLK [FAST]
@@ -317,7 +315,7 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a56bff72ad9d298044c58f8.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-63c9724c5feb7b9655cb1950.m3u8
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6674b68af04cf4bb9233c916" tvg-id="6a1610bebdf296985fd95603-6674b68af04cf4bb9233c916" tvg-chno="" tvg-name="Death Valley Days" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png" group-title="Classic TV",Death Valley Days
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6674b68af04cf4bb9233c916.m3u8
-#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422" tvg-id="6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422" tvg-chno="" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a426c4a0-14ce-4a28-9203-af696a07663e/Degrassi_TNG_White_Strokerdx.png" group-title="Daytime TV",Degrassi
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422" tvg-id="6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422" tvg-chno="" tvg-name="Degrassi" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cada7234-31ab-4510-929d-e5fa3428331a/Degrassi_TNG_Logordx.png" group-title="Daytime TV",Degrassi
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-636d5aa3dc2c550b145ed422.m3u8
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-69a516217c245b3390e8a4d2" tvg-id="6a1610bebdf296985fd95603-69a516217c245b3390e8a4d2" tvg-chno="" tvg-name="Delito" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2a18d55-c1c1-47d9-8bfc-50f002b4c030/DelitoLight_Logo__4__RED_RDX.png" group-title="Uncategorized",Delito
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-69a516217c245b3390e8a4d2.m3u8
@@ -539,6 +537,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-62b45f15b4508e0eedacdf25.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-63489eff90b96ef5e0eb3282.m3u8
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-63489a771159f6a5ce819b7b" tvg-id="6a1610bebdf296985fd95603-63489a771159f6a5ce819b7b" tvg-chno="" tvg-name="Grjngo - Western Movies" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png" group-title="Classic TV",Grjngo - Western Movies
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-63489a771159f6a5ce819b7b.m3u8
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6a8cb463fc51826f5301a156" tvg-id="6a1610bebdf296985fd95603-6a8cb463fc51826f5301a156" tvg-chno="" tvg-name="Growing Up Hip Hop" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c3c8801d-fde8-4b88-93a9-206956d39baf/Wetv_GUHH_Yellow_logo.png" group-title="Uncategorized",Growing Up Hip Hop
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a8cb463fc51826f5301a156.m3u8
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6a8786c4fa0d0293e2681b7c" tvg-id="6a1610bebdf296985fd95603-6a8786c4fa0d0293e2681b7c" tvg-chno="" tvg-name="GrowthDay Network" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png" group-title="Uncategorized",GrowthDay Network
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a8786c4fa0d0293e2681b7c.m3u8
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-5f8746eabd529300418246d9" tvg-id="6a1610bebdf296985fd95603-5f8746eabd529300418246d9" tvg-chno="" tvg-name="GUSTOTV" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" group-title="Food & Home",GUSTOTV
@@ -1069,6 +1069,8 @@ https://jmp2.uk/plex-6a1610bebdf296985fd95603-656fbbd6dbcce28c3a41741b.m3u8
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-6227c215c9f485cc7afe8c41.m3u8
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-69d938388061ebfbca58c322" tvg-id="6a1610bebdf296985fd95603-69d938388061ebfbca58c322" tvg-chno="" tvg-name="Survive or Die" tvg-logo="https://provider-static.plex.tv/epg/cms/production/56a65f88-7aa4-4dcd-86ca-f9dfdca4d0be/SurviveOrDie_Logo_Dark_1500x1000.png" group-title="Uncategorized",Survive or Die
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-69d938388061ebfbca58c322.m3u8
+#EXTINF:-1 channel-id="6a1610bebdf296985fd95603-6a9512a7f534d4312a699c22" tvg-id="6a1610bebdf296985fd95603-6a9512a7f534d4312a699c22" tvg-chno="" tvg-name="SWAC TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/45a49345-6902-4cf0-8b4b-d6c6fa73d191/SWAC_WHT_LETTERSLogo.png" group-title="Uncategorized",SWAC TV
+https://jmp2.uk/plex-6a1610bebdf296985fd95603-6a9512a7f534d4312a699c22.m3u8
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-66a1acc577649467da169f0c" tvg-id="6a1610bebdf296985fd95603-66a1acc577649467da169f0c" tvg-chno="" tvg-name="Sweet Escapes" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f9dd98df-f895-4fbd-94c6-ca6496426043/SweetEscapes_Logo_Dark_1500x1000.png" group-title="Food & Home",Sweet Escapes
 https://jmp2.uk/plex-6a1610bebdf296985fd95603-66a1acc577649467da169f0c.m3u8
 #EXTINF:-1 channel-id="6a1610bebdf296985fd95603-61f04d2bb01a6e8df3f72902" tvg-id="6a1610bebdf296985fd95603-61f04d2bb01a6e8df3f72902" tvg-chno="" tvg-name="Swerve Combat" tvg-logo="https://provider-static.plex.tv/epg/cms/production/aa449194-1789-42d6-8a03-55ef1e991c40/PLEX_1500x1000_Logo_Dark.png" group-title="Sports",Swerve Combat
