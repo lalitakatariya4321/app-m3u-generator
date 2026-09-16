@@ -1321,6 +1321,8 @@ https://jmp2.uk/plu-67a23bb777796f00080edaec.m3u8
 https://jmp2.uk/plu-67a23b4e15d6eb000827a20d.m3u8
 #EXTINF:-1 channel-id="686d004094a028da3aac8cb0-de" tvg-id="686d004094a028da3aac8cb0" tvg-chno="7" tvg-name="Don Matteo" tvg-logo="https://images.pluto.tv/channels/686d004094a028da3aac8cb0/colorLogoPNG_1759148252016.png" group-title="Germany",Don Matteo
 https://jmp2.uk/plu-686d004094a028da3aac8cb0.m3u8
+#EXTINF:-1 channel-id="6a70da97a4bf6cded4fdaf53-us" tvg-id="6a70da97a4bf6cded4fdaf53" tvg-chno="3721" tvg-name="Dora TV" tvg-logo="https://images.pluto.tv/channels/6a70da97a4bf6cded4fdaf53/colorLogoPNG_1786461439766.png" group-title="United States",Dora TV
+https://jmp2.uk/plu-6a70da97a4bf6cded4fdaf53.m3u8
 #EXTINF:-1 channel-id="62e951258a26d40007b3034c-ca" tvg-id="62e951258a26d40007b3034c" tvg-chno="1210" tvg-name="Dora TV" tvg-logo="https://images.pluto.tv/channels/62e951258a26d40007b3034c/colorLogoPNG.png" group-title="Canada",Dora TV
 https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 #EXTINF:-1 channel-id="62e951258a26d40007b3034c-cl" tvg-id="62e951258a26d40007b3034c" tvg-chno="1210" tvg-name="Dora TV" tvg-logo="https://images.pluto.tv/channels/62e951258a26d40007b3034c/colorLogoPNG.png" group-title="Chile",Dora TV
@@ -3733,6 +3735,8 @@ https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8
 https://jmp2.uk/plu-64526a145a0cd50008632bfa.m3u8
 #EXTINF:-1 channel-id="664f10c4f9992200084a2f47-de" tvg-id="664f10c4f9992200084a2f47" tvg-chno="223" tvg-name="Pluto TV Heiße Nächte Retro" tvg-logo="https://images.pluto.tv/channels/664f10c4f9992200084a2f47/colorLogoPNG.png" group-title="Germany",Pluto TV Heiße Nächte Retro
 https://jmp2.uk/plu-664f10c4f9992200084a2f47.m3u8
+#EXTINF:-1 channel-id="6a7cc5a857bd65df5dadba5f-us" tvg-id="6a7cc5a857bd65df5dadba5f" tvg-chno="239" tvg-name="Pluto TV Hispanic Favorites" tvg-logo="https://images.pluto.tv/channels/6a7cc5a857bd65df5dadba5f/colorLogoPNG_1788454948703.png" group-title="United States",Pluto TV Hispanic Favorites
+https://jmp2.uk/plu-6a7cc5a857bd65df5dadba5f.m3u8
 #EXTINF:-1 channel-id="611e771e2f5f180007002224-fr" tvg-id="611e771e2f5f180007002224" tvg-chno="900" tvg-name="Pluto TV Histoire" tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" group-title="France",Pluto TV Histoire
 https://jmp2.uk/plu-611e771e2f5f180007002224.m3u8
 #EXTINF:-1 channel-id="61cd7b49543066000713b620-es" tvg-id="61cd7b49543066000713b620" tvg-chno="256" tvg-name="Pluto TV Historia" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png" group-title="Spain",Pluto TV Historia
