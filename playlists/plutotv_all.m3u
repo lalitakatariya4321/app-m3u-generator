@@ -2391,6 +2391,8 @@ https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
 https://jmp2.uk/plu-68adc3fdd8f7693ae347a63a.m3u8
 #EXTINF:-1 channel-id="6682bd9b8768aa0008f25be5-es" tvg-id="6682bd9b8768aa0008f25be5" tvg-chno="41" tvg-name="Los misterios de Murdoch" tvg-logo="https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/colorLogoPNG_1764691773450.png" group-title="Spain",Los misterios de Murdoch
 https://jmp2.uk/plu-6682bd9b8768aa0008f25be5.m3u8
+#EXTINF:-1 channel-id="6a43d63071cbfff7dca61d23-es" tvg-id="6a43d63071cbfff7dca61d23" tvg-chno="2" tvg-name="Los Misteriosos asesinatos de Miss Fisher" tvg-logo="https://images.pluto.tv/channels/6a43d63071cbfff7dca61d23/colorLogoPNG_1789631429620.png" group-title="Spain",Los Misteriosos asesinatos de Miss Fisher
+https://jmp2.uk/plu-6a43d63071cbfff7dca61d23.m3u8
 #EXTINF:-1 channel-id="5f1acba0d1f6340007db8843-es" tvg-id="5f1acba0d1f6340007db8843" tvg-chno="24" tvg-name="Los nuevos detectives" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="Spain",Los nuevos detectives
 https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8
 #EXTINF:-1 channel-id="6322099c822bbc00074857db-mx" tvg-id="6322099c822bbc00074857db" tvg-chno="1465" tvg-name="Los Padrinos Mágicos" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG_1767810452010.png" group-title="Mexico",Los Padrinos Mágicos
@@ -3093,7 +3095,7 @@ https://jmp2.uk/plu-692ec6d82329c10c5166f436.m3u8
 https://jmp2.uk/plu-691c5b2e74baa89ef7230baf.m3u8
 #EXTINF:-1 channel-id="66ff0cf663292d0008320cf8-us" tvg-id="66ff0cf663292d0008320cf8" tvg-chno="3510" tvg-name="No Reservations" tvg-logo="https://images.pluto.tv/channels/66ff0cf663292d0008320cf8/colorLogoPNG.png" group-title="United States",No Reservations
 https://jmp2.uk/plu-66ff0cf663292d0008320cf8.m3u8
-#EXTINF:-1 channel-id="6a43d3bae0c1a33841302952-es" tvg-id="6a43d3bae0c1a33841302952" tvg-chno="2" tvg-name="Noche y día" tvg-logo="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png" group-title="Spain",Noche y día
+#EXTINF:-1 channel-id="6a43d3bae0c1a33841302952-es" tvg-id="6a43d3bae0c1a33841302952" tvg-chno="1" tvg-name="Noche y día" tvg-logo="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png" group-title="Spain",Noche y día
 https://jmp2.uk/plu-6a43d3bae0c1a33841302952.m3u8
 #EXTINF:-1 channel-id="62fb9ade112ca70007d8441d-ca" tvg-id="62fb9ade112ca70007d8441d" tvg-chno="645" tvg-name="Nonstop Drama" tvg-logo="https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png" group-title="Canada",Nonstop Drama
 https://jmp2.uk/plu-62fb9ade112ca70007d8441d.m3u8

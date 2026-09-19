@@ -99,6 +99,8 @@ https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
 https://jmp2.uk/plu-68adc3fdd8f7693ae347a63a.m3u8
 #EXTINF:-1 channel-id="6682bd9b8768aa0008f25be5" tvg-id="6682bd9b8768aa0008f25be5" tvg-chno="41" tvg-name="Los misterios de Murdoch" tvg-logo="https://images.pluto.tv/channels/6682bd9b8768aa0008f25be5/colorLogoPNG_1764691773450.png" group-title="Policiacas",Los misterios de Murdoch
 https://jmp2.uk/plu-6682bd9b8768aa0008f25be5.m3u8
+#EXTINF:-1 channel-id="6a43d63071cbfff7dca61d23" tvg-id="6a43d63071cbfff7dca61d23" tvg-chno="2" tvg-name="Los Misteriosos asesinatos de Miss Fisher" tvg-logo="https://images.pluto.tv/channels/6a43d63071cbfff7dca61d23/colorLogoPNG_1789631429620.png" group-title="Nuevo en Pluto TV",Los Misteriosos asesinatos de Miss Fisher
+https://jmp2.uk/plu-6a43d63071cbfff7dca61d23.m3u8
 #EXTINF:-1 channel-id="5f1acba0d1f6340007db8843" tvg-id="5f1acba0d1f6340007db8843" tvg-chno="24" tvg-name="Los nuevos detectives" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="Crimen y Misterio",Los nuevos detectives
 https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8
 #EXTINF:-1 channel-id="68d27949793c71d988ca624c" tvg-id="68d27949793c71d988ca624c" tvg-chno="232" tvg-name="Los Pitufos" tvg-logo="https://images.pluto.tv/channels/68d27949793c71d988ca624c/colorLogoPNG_1760370849099.png" group-title="Infantil",Los Pitufos
@@ -143,7 +145,7 @@ https://jmp2.uk/plu-63eb9495a8b227000841bf64.m3u8
 https://jmp2.uk/plu-60dd6b1da79e4d0007309455.m3u8
 #EXTINF:-1 channel-id="6a6a02ae3ee9d966427e62c4" tvg-id="6a6a02ae3ee9d966427e62c4" tvg-chno="287" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a6a02ae3ee9d966427e62c4/colorLogoPNG_1785333367393.png" group-title="Deportes",NFL Channel
 https://jmp2.uk/plu-6a6a02ae3ee9d966427e62c4.m3u8
-#EXTINF:-1 channel-id="6a43d3bae0c1a33841302952" tvg-id="6a43d3bae0c1a33841302952" tvg-chno="2" tvg-name="Noche y día" tvg-logo="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png" group-title="Nuevo en Pluto TV",Noche y día
+#EXTINF:-1 channel-id="6a43d3bae0c1a33841302952" tvg-id="6a43d3bae0c1a33841302952" tvg-chno="1" tvg-name="Noche y día" tvg-logo="https://images.pluto.tv/channels/6a43d3bae0c1a33841302952/colorLogoPNG_1786017565906.png" group-title="Nuevo en Pluto TV",Noche y día
 https://jmp2.uk/plu-6a43d3bae0c1a33841302952.m3u8
 #EXTINF:-1 channel-id="680ba8992472a7200a183eb5" tvg-id="680ba8992472a7200a183eb5" tvg-chno="164" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/680ba8992472a7200a183eb5/colorLogoPNG_1748955630923.png" group-title="Anime",One Piece
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
