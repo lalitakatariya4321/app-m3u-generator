@@ -311,8 +311,6 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-66bfb2e6144c201b8b61c10f.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-69f4f6c2647c1d14cc38677b.m3u8
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-60aeb5cd87f9b1002ce12323" tvg-id="608049aefa2b8ae93c2c3a63-60aeb5cd87f9b1002ce12323" tvg-chno="" tvg-name="NHRA TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/NHRA_logo_dark.png" group-title="Sports",NHRA TV
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60aeb5cd87f9b1002ce12323.m3u8
-#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1" tvg-id="608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1" tvg-chno="" tvg-name="Ninja Kidz TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png" group-title="Kids & Family",Ninja Kidz TV
-https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1.m3u8
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec015" tvg-id="608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec015" tvg-chno="" tvg-name="Nosey" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png" group-title="Daytime TV",Nosey
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec015.m3u8
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-6154a863e3e4d9577f96b31a" tvg-id="608049aefa2b8ae93c2c3a63-6154a863e3e4d9577f96b31a" tvg-chno="" tvg-name="Nosey Escándalos" tvg-logo="https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png" group-title="En Español",Nosey Escándalos
@@ -373,6 +371,8 @@ https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-685c78a77223639b1ac098a1.m3u8
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6244f2d33ef43121e567cf13.m3u8
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-67e6979de1de65be88aeb39f" tvg-id="608049aefa2b8ae93c2c3a63-67e6979de1de65be88aeb39f" tvg-chno="" tvg-name="RCN Noticias" tvg-logo="https://provider-static.plex.tv/epg/cms/production/078ace21-2c9e-4b63-b222-1dd0a525ad3e/RCN_NOTICIAS_BG_COLOR_n_-_JuanMa_VelasquezRDX.png" group-title="Uncategorized",RCN Noticias
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-67e6979de1de65be88aeb39f.m3u8
+#EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-6aa9bc040832270987394353" tvg-id="608049aefa2b8ae93c2c3a63-6aa9bc040832270987394353" tvg-chno="" tvg-name="Real Emergency" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png" group-title="Uncategorized",Real Emergency
+https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-6aa9bc040832270987394353.m3u8
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-61aa9f50784a2161d3caf7fb" tvg-id="608049aefa2b8ae93c2c3a63-61aa9f50784a2161d3caf7fb" tvg-chno="" tvg-name="Remember the ‘80s" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png" group-title="Music",Remember the ‘80s
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-61aa9f50784a2161d3caf7fb.m3u8
 #EXTINF:-1 channel-id="608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d9" tvg-id="608049aefa2b8ae93c2c3a63-5ef11487d33ab9004048a1d9" tvg-chno="" tvg-name="Revry" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png" group-title="Lifestyle",Revry
