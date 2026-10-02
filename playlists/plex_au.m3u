@@ -87,8 +87,10 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-63f0ca427b78030ed9990309.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-68e03f572cbc7a5d3189394c.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-5f07e9fdf313eb0041bbecda" tvg-id="697140a85d851f5e69414688-5f07e9fdf313eb0041bbecda" tvg-chno="" tvg-name="Cooking Panda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="Food & Home",Cooking Panda
 https://jmp2.uk/plex-697140a85d851f5e69414688-5f07e9fdf313eb0041bbecda.m3u8
-#EXTINF:-1 channel-id="697140a85d851f5e69414688-626c1753ffda6789d20a452e" tvg-id="697140a85d851f5e69414688-626c1753ffda6789d20a452e" tvg-chno="" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png" group-title="Hit TV",COPS
-https://jmp2.uk/plex-697140a85d851f5e69414688-626c1753ffda6789d20a452e.m3u8
+#EXTINF:-1 channel-id="697140a85d851f5e69414688-6ab19f70e7969627826876b4" tvg-id="697140a85d851f5e69414688-6ab19f70e7969627826876b4" tvg-chno="" tvg-name="COPS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/decfc889-30bc-4b21-951b-68fe49cd5ec1/Cops_channel_logo_white_1500x1000RDX.png" group-title="Hit TV",COPS
+https://jmp2.uk/plex-697140a85d851f5e69414688-6ab19f70e7969627826876b4.m3u8
+#EXTINF:-1 channel-id="697140a85d851f5e69414688-6a8cc101fc51826f5301a160" tvg-id="697140a85d851f5e69414688-6a8cc101fc51826f5301a160" tvg-chno="" tvg-name="COPS Reloaded" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png" group-title="Uncategorized",COPS Reloaded
+https://jmp2.uk/plex-697140a85d851f5e69414688-6a8cc101fc51826f5301a160.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-66ce3cf459062698a13c39df" tvg-id="697140a85d851f5e69414688-66ce3cf459062698a13c39df" tvg-chno="" tvg-name="Corner Gas" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e6696e27-0079-499b-b4c9-b31300a4b511/FilmRise_CornerGas_Logo_FullColor.png" group-title="Comedy",Corner Gas
 https://jmp2.uk/plex-697140a85d851f5e69414688-66ce3cf459062698a13c39df.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-6365779dde08f8eec6c3f21f" tvg-id="697140a85d851f5e69414688-6365779dde08f8eec6c3f21f" tvg-chno="" tvg-name="CraftsyTV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" group-title="Food & Home",CraftsyTV
@@ -99,8 +101,6 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-67884bd6d37f2fd48d6220db.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-65e0c8c6d899afe817b9d224.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-6a2ebc83e11aec3ec320becc" tvg-id="697140a85d851f5e69414688-6a2ebc83e11aec3ec320becc" tvg-chno="" tvg-name="Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e1e0c374-9d7d-4fb3-9979-f348bef34766/Crime_360_channel_logo_4c_1500x1000RDX.png" group-title="True Crime",Crime 360
 https://jmp2.uk/plex-697140a85d851f5e69414688-6a2ebc83e11aec3ec320becc.m3u8
-#EXTINF:-1 channel-id="697140a85d851f5e69414688-68c98e7460586565cc56baab" tvg-id="697140a85d851f5e69414688-68c98e7460586565cc56baab" tvg-chno="" tvg-name="Crime Beat TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png" group-title="Uncategorized",Crime Beat TV
-https://jmp2.uk/plex-697140a85d851f5e69414688-68c98e7460586565cc56baab.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-6615360a8423b8d7e61a099c" tvg-id="697140a85d851f5e69414688-6615360a8423b8d7e61a099c" tvg-chno="" tvg-name="Crime Scene TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15c628ca-8ef6-4074-873c-8f491ed51f55/crime_scene_tv_white.png" group-title="True Crime",Crime Scene TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-6615360a8423b8d7e61a099c.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-66855a2a714fe577eb7db920" tvg-id="697140a85d851f5e69414688-66855a2a714fe577eb7db920" tvg-chno="" tvg-name="Deal Or No Deal" tvg-logo="https://provider-static.plex.tv/epg/cms/production/15f53c2f-081e-47a5-aa7d-5bcabc7ee8bd/DOND_Logo_Light_1500x1000_-_Harry_Marshall__1___1_.png" group-title="Game Shows",Deal Or No Deal
@@ -245,8 +245,8 @@ https://jmp2.uk/plex-697140a85d851f5e69414688-6707cfa5da81682f2d1e6837.m3u8
 https://jmp2.uk/plex-697140a85d851f5e69414688-688d3402a6fe30698ab42007.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-666e1a2bce73ed6023b55a13" tvg-id="697140a85d851f5e69414688-666e1a2bce73ed6023b55a13" tvg-chno="" tvg-name="Jade Fever" tvg-logo="https://provider-static.plex.tv/epg/cms/production/abef57ed-8084-4da0-bf57-cf52edf919f7/channel_logo_1500x1000_light.png.png" group-title="Reality",Jade Fever
 https://jmp2.uk/plex-697140a85d851f5e69414688-666e1a2bce73ed6023b55a13.m3u8
-#EXTINF:-1 channel-id="697140a85d851f5e69414688-6448ba1baf92c31f4a190c27" tvg-id="697140a85d851f5e69414688-6448ba1baf92c31f4a190c27" tvg-chno="" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png" group-title="True Crime",JAIL
-https://jmp2.uk/plex-697140a85d851f5e69414688-6448ba1baf92c31f4a190c27.m3u8
+#EXTINF:-1 channel-id="697140a85d851f5e69414688-6ab563ad177d989ab41dfd3d" tvg-id="697140a85d851f5e69414688-6ab563ad177d989ab41dfd3d" tvg-chno="" tvg-name="JAIL" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ed859206-0087-4340-9add-b4419ce55029/Jail_channel_logo_4c_1500x1000RDX.png" group-title="True Crime",JAIL
+https://jmp2.uk/plex-697140a85d851f5e69414688-6ab563ad177d989ab41dfd3d.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-60d4edd6b2fdec002c141123" tvg-id="697140a85d851f5e69414688-60d4edd6b2fdec002c141123" tvg-chno="" tvg-name="Johnny Carson TV" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png" group-title="Classic TV",Johnny Carson TV
 https://jmp2.uk/plex-697140a85d851f5e69414688-60d4edd6b2fdec002c141123.m3u8
 #EXTINF:-1 channel-id="697140a85d851f5e69414688-60a9d105d162b9002d05a60c" tvg-id="697140a85d851f5e69414688-60a9d105d162b9002d05a60c" tvg-chno="" tvg-name="Journy" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png" group-title="Nature & Travel",Journy
