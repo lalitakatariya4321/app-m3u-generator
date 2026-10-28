@@ -253,6 +253,8 @@ https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
 https://jmp2.uk/plu-62f54c6439183b000769fb8f.m3u8
 #EXTINF:-1 channel-id="632b606e12a67b0007c9e371" tvg-id="632b606e12a67b0007c9e371" tvg-chno="4270" tvg-name="CSI: NY en español" tvg-logo="https://images.pluto.tv/channels/632b606e12a67b0007c9e371/colorLogoPNG_1731837281479.png" group-title="En Español",CSI: NY en español
 https://jmp2.uk/plu-632b606e12a67b0007c9e371.m3u8
+#EXTINF:-1 channel-id="6a30478d0be0264f4a4e227c" tvg-id="6a30478d0be0264f4a4e227c" tvg-chno="2885" tvg-name="CW Presents WWE NXT" tvg-logo="https://images.pluto.tv/channels/6a30478d0be0264f4a4e227c/colorLogoPNG_1789664021838.png" group-title="Sports",CW Presents WWE NXT
+https://jmp2.uk/plu-6a30478d0be0264f4a4e227c.m3u8
 #EXTINF:-1 channel-id="5ef3958c66ac540007d6e6a7" tvg-id="5ef3958c66ac540007d6e6a7" tvg-chno="1415" tvg-name="Dark Shadows" tvg-logo="https://images.pluto.tv/channels/5ef3958c66ac540007d6e6a7/colorLogoPNG.png" group-title="Halloween Hits",Dark Shadows
 https://jmp2.uk/plu-5ef3958c66ac540007d6e6a7.m3u8
 #EXTINF:-1 channel-id="637413d8531e0c0007442d6d" tvg-id="637413d8531e0c0007442d6d" tvg-chno="1250" tvg-name="Dateline 24/7" tvg-logo="https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png" group-title="True Crime",Dateline 24/7
@@ -521,6 +523,8 @@ https://jmp2.uk/plu-60d39387706fe50007fda8e8.m3u8
 https://jmp2.uk/plu-636c2b3c55d2e700074105c4.m3u8
 #EXTINF:-1 channel-id="640a64bd73e013000893d4e0" tvg-id="640a64bd73e013000893d4e0" tvg-chno="3580" tvg-name="PBS Nature" tvg-logo="https://images.pluto.tv/channels/640a64bd73e013000893d4e0/colorLogoPNG.png" group-title="Animals + Nature",PBS Nature
 https://jmp2.uk/plu-640a64bd73e013000893d4e0.m3u8
+#EXTINF:-1 channel-id="6a304723ff3691f8e68a2e74" tvg-id="6a304723ff3691f8e68a2e74" tvg-chno="2090" tvg-name="Penn & Teller: Fool Us (CW)" tvg-logo="https://images.pluto.tv/channels/6a304723ff3691f8e68a2e74/colorLogoPNG_1790612769194.png" group-title="Entertainment",Penn & Teller: Fool Us (CW)
+https://jmp2.uk/plu-6a304723ff3691f8e68a2e74.m3u8
 #EXTINF:-1 channel-id="5d14fb6c84dd37df3b4290c5" tvg-id="5d14fb6c84dd37df3b4290c5" tvg-chno="3720" tvg-name="Peppa Pig" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png" group-title="Kids",Peppa Pig
 https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
 #EXTINF:-1 channel-id="6197086891ddd4000739941a" tvg-id="6197086891ddd4000739941a" tvg-chno="700" tvg-name="Perry Mason" tvg-logo="https://images.pluto.tv/channels/6197086891ddd4000739941a/colorLogoPNG_1731835750293.png" group-title="Classic TV",Perry Mason
