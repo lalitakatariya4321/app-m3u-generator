@@ -1223,8 +1223,6 @@ https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
 https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8
 #EXTINF:-1 channel-id="62d0895ebe7a970008785244-ar" tvg-id="62d0895ebe7a970008785244" tvg-chno="934" tvg-name="Daria" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png" group-title="Argentina",Daria
 https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
-#EXTINF:-1 channel-id="5ef3958c66ac540007d6e6a7-us" tvg-id="5ef3958c66ac540007d6e6a7" tvg-chno="1415" tvg-name="Dark Shadows" tvg-logo="https://images.pluto.tv/channels/5ef3958c66ac540007d6e6a7/colorLogoPNG.png" group-title="United States",Dark Shadows
-https://jmp2.uk/plu-5ef3958c66ac540007d6e6a7.m3u8
 #EXTINF:-1 channel-id="637413d8531e0c0007442d6d-us" tvg-id="637413d8531e0c0007442d6d" tvg-chno="1235" tvg-name="Dateline 24/7" tvg-logo="https://images.pluto.tv/channels/637413d8531e0c0007442d6d/colorLogoPNG.png" group-title="United States",Dateline 24/7
 https://jmp2.uk/plu-637413d8531e0c0007442d6d.m3u8
 #EXTINF:-1 channel-id="651f239d9c7aeb0008286823-us" tvg-id="651f239d9c7aeb0008286823" tvg-chno="1670" tvg-name="Dating Disasters" tvg-logo="https://images.pluto.tv/channels/651f239d9c7aeb0008286823/colorLogoPNG.png" group-title="United States",Dating Disasters
@@ -3143,7 +3141,7 @@ https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
 https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
 #EXTINF:-1 channel-id="66a106c8a79dea0008aa5ef3-cl" tvg-id="66a106c8a79dea0008aa5ef3" tvg-chno="410" tvg-name="NCIS: Los Angeles" tvg-logo="https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png" group-title="Chile",NCIS: Los Angeles
 https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
-#EXTINF:-1 channel-id="66fbf4d3d7de140008d41f5b-dk" tvg-id="66fbf4d3d7de140008d41f5b" tvg-chno="2" tvg-name="NCIS: Los Angeles" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" group-title="Denmark",NCIS: Los Angeles
+#EXTINF:-1 channel-id="66fbf4d3d7de140008d41f5b-dk" tvg-id="66fbf4d3d7de140008d41f5b" tvg-chno="4" tvg-name="NCIS: Los Angeles" tvg-logo="https://images.pluto.tv/channels/66fbf4d3d7de140008d41f5b/colorLogoPNG.png" group-title="Denmark",NCIS: Los Angeles
 https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
 #EXTINF:-1 channel-id="69fca82ff6ac24413f5338fa-de" tvg-id="69fca82ff6ac24413f5338fa" tvg-chno="2" tvg-name="NCIS: New Orleans" tvg-logo="https://images.pluto.tv/channels/69fca82ff6ac24413f5338fa/colorLogoPNG_1778165914933.png" group-title="Germany",NCIS: New Orleans
 https://jmp2.uk/plu-69fca82ff6ac24413f5338fa.m3u8
@@ -5519,11 +5517,11 @@ https://jmp2.uk/plu-61814dd68a368d0007d78c53.m3u8
 https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
 #EXTINF:-1 channel-id="5ea71d48af1d0b0007d837f4-ar" tvg-id="5ea71d48af1d0b0007d837f4" tvg-chno="597" tvg-name="The New Detectives" tvg-logo="https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png" group-title="Argentina",The New Detectives
 https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
-#EXTINF:-1 channel-id="6874ad743ffa5e0c917f6e20-ca" tvg-id="6874ad743ffa5e0c917f6e20" tvg-chno="668" tvg-name="The Outer Limits" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png" group-title="Canada",The Outer Limits
+#EXTINF:-1 channel-id="6874ad743ffa5e0c917f6e20-ca" tvg-id="6874ad743ffa5e0c917f6e20" tvg-chno="568" tvg-name="The Outer Limits" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png" group-title="Canada",The Outer Limits
 https://jmp2.uk/plu-6874ad743ffa5e0c917f6e20.m3u8
 #EXTINF:-1 channel-id="68ad90673efb41cd97c95825-de" tvg-id="68ad90673efb41cd97c95825" tvg-chno="211" tvg-name="The Outer Limits" tvg-logo="https://images.pluto.tv/channels/68ad90673efb41cd97c95825/colorLogoPNG_1768464264146.png" group-title="Germany",The Outer Limits
 https://jmp2.uk/plu-68ad90673efb41cd97c95825.m3u8
-#EXTINF:-1 channel-id="6874ad743ffa5e0c917f6e20-cl" tvg-id="6874ad743ffa5e0c917f6e20" tvg-chno="668" tvg-name="The Outer Limits" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png" group-title="Chile",The Outer Limits
+#EXTINF:-1 channel-id="6874ad743ffa5e0c917f6e20-cl" tvg-id="6874ad743ffa5e0c917f6e20" tvg-chno="568" tvg-name="The Outer Limits" tvg-logo="https://images.pluto.tv/channels/6874ad743ffa5e0c917f6e20/colorLogoPNG_1758877093392.png" group-title="Chile",The Outer Limits
 https://jmp2.uk/plu-6874ad743ffa5e0c917f6e20.m3u8
 #EXTINF:-1 channel-id="5bb1ad55268cae539bcedb08-us" tvg-id="5bb1ad55268cae539bcedb08" tvg-chno="3620" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="United States",The Pet Collective
 https://jmp2.uk/plu-5bb1ad55268cae539bcedb08.m3u8
@@ -5919,8 +5917,6 @@ https://jmp2.uk/plu-61e9af6bfbbcc6000700119b.m3u8
 https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
 #EXTINF:-1 channel-id="688a44cf5d73ec0a3f49718b-cl" tvg-id="688a44cf5d73ec0a3f49718b" tvg-chno="620" tvg-name="Weeds / Nurse Jackie" tvg-logo="https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png" group-title="Chile",Weeds / Nurse Jackie
 https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
-#EXTINF:-1 channel-id="684ac14b5965a2fd49583311-de" tvg-id="684ac14b5965a2fd49583311" tvg-chno="97" tvg-name="Weihnachtskino" tvg-logo="https://images.pluto.tv/channels/684ac14b5965a2fd49583311/colorLogoPNG_1757587715183.png" group-title="Germany",Weihnachtskino
-https://jmp2.uk/plu-684ac14b5965a2fd49583311.m3u8
 #EXTINF:-1 channel-id="5e8df4bc16e34700077e77d3-us" tvg-id="5e8df4bc16e34700077e77d3" tvg-chno="791" tvg-name="Western TV" tvg-logo="https://images.pluto.tv/channels/5e8df4bc16e34700077e77d3/colorLogoPNG.png" group-title="United States",Western TV
 https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
 #EXTINF:-1 channel-id="6ad7a97aa9b3de1ec8f609ad-us" tvg-id="6ad7a97aa9b3de1ec8f609ad" tvg-chno="383" tvg-name="Whose Line Is It Anyway" tvg-logo="https://images.pluto.tv/channels/6ad7a97aa9b3de1ec8f609ad/colorLogoPNG_1793382889086.png" group-title="United States",Whose Line Is It Anyway
