@@ -485,6 +485,8 @@ https://jmp2.uk/plex-64305451fc3be5947773c339-69814bbff871095eafc65925.m3u8
 https://jmp2.uk/plex-64305451fc3be5947773c339-68e0388d8bbd79d66c631ab4.m3u8
 #EXTINF:-1 channel-id="64305451fc3be5947773c339-63628eb88e4b18ca22f897dc" tvg-id="64305451fc3be5947773c339-63628eb88e4b18ca22f897dc" tvg-chno="" tvg-name="PursuitUP" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png" group-title="Sports",PursuitUP
 https://jmp2.uk/plex-64305451fc3be5947773c339-63628eb88e4b18ca22f897dc.m3u8
+#EXTINF:-1 channel-id="64305451fc3be5947773c339-6aa776a1fc710687a8b4db41" tvg-id="64305451fc3be5947773c339-6aa776a1fc710687a8b4db41" tvg-chno="" tvg-name="Q With Tom Power" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png" group-title="Uncategorized",Q With Tom Power
+https://jmp2.uk/plex-64305451fc3be5947773c339-6aa776a1fc710687a8b4db41.m3u8
 #EXTINF:-1 channel-id="64305451fc3be5947773c339-62d7f68fb19cbf65dc7bef7c" tvg-id="64305451fc3be5947773c339-62d7f68fb19cbf65dc7bef7c" tvg-chno="" tvg-name="Qello Concerts" tvg-logo="https://provider-static.plex.tv/2/epg/channels/logos/gracenote/26655d04221a66d105b317c0bba65113.png" group-title="Music",Qello Concerts
 https://jmp2.uk/plex-64305451fc3be5947773c339-62d7f68fb19cbf65dc7bef7c.m3u8
 #EXTINF:-1 channel-id="64305451fc3be5947773c339-60b0f65c0c8ffb002c821a75" tvg-id="64305451fc3be5947773c339-60b0f65c0c8ffb002c821a75" tvg-chno="" tvg-name="Qwest TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9625dc39-aca4-4f28-91ca-e2b61c6c726a/Channel_Hero_Logo_-_1500x1000.png" group-title="Music",Qwest TV
